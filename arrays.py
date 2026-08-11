@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np  # type: ignore[import]
 a=[1,2,3,4]
 b=[5,6,7,8]
 array=np.array([a,b])
@@ -39,3 +39,5 @@ threedarray=np.array([[[1,2,3],[4,5,6]],[[7,8,9],[10,11,12]]])
 print("3darray:", threedarray)
 print("3darray shape:", threedarray.shape)
 print("3darray ndim:", threedarray.ndim)
+a=np.array([1,2,3])
+print(a+10)
