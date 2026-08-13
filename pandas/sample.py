@@ -20,3 +20,14 @@ employees = pd.DataFrame({
 
 print("Employees DataFrame:")
 print(employees)
+df2=pd.DataFrame(np.array([arr,arr]),columns=['A','B','C','D','E'])
+print(df2)
+print(employees[['Name','Salary']])
+print(employees.shape)
+print(employees.size)
+print(employees.ndim)
+print(employees.columns)
+
+
+
+
