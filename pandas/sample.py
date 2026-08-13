@@ -27,6 +27,16 @@ print(employees.shape)
 print(employees.size)
 print(employees.ndim)
 print(employees.columns)
+print(employees.dtypes)
+print(employees['Name'])
+print(employees[['Name', 'Salary']])
+print(employees.iloc[0:3])
+print(employees.iloc[[-1, -2]])
+print(employees.iloc[[-1,-2], [3,4]])
+
+
+
+
 
 
 
