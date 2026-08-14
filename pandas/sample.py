@@ -69,7 +69,12 @@ print("left : ")
 print(df3[df3["Salary"].between(50000,100000,inclusive='left')])
 print("both : ")
 print(df3[df3["Salary"].between(50000,100000,inclusive='both')])
-
+#query
+print("query in pandas")
+print(df3.query("Salary>20000"))
+print(df3.query("Salary>20000 &Salary<50000"))
+print(df3.query("Salary>20000 &Salary<50000&Gender=='male'"))
+print(df3.query("30000<=Salary<=50000"))
 
 
 
