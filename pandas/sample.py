@@ -59,7 +59,17 @@ df3=pd.DataFrame({
 print(df3)
 print(df3[df3["City"].isin(["Hyderabad","Mumbai"])])
 print(df3[df3["Gender"].isin(["male","female"])])
+print("between : ")
 print(df3[df3["Salary"].between(50000,100000)])
+print("neither : ")
+print(df3[df3["Salary"].between(50000,100000,inclusive='neither')])
+print("right : ")
+print(df3[df3["Salary"].between(50000,100000,inclusive='right')])
+print("left : ")
+print(df3[df3["Salary"].between(50000,100000,inclusive='left')])
+print("both : ")
+print(df3[df3["Salary"].between(50000,100000,inclusive='both')])
+
 
 
 
