@@ -16,7 +16,7 @@ employees = pd.DataFrame({
     "Age": [25, 29, 24, 32, 27],
     "Department": ["IT", "HR", "IT", "Sales", "Finance"],
     "Salary": [45000, 55000, 48000, 70000, 85000]
-})
+},index=["E101", "E102", "E103", "E104", "E105"])
 
 print("Employees DataFrame:")
 print(employees)
@@ -33,6 +33,23 @@ print(employees[['Name', 'Salary']])
 print(employees.iloc[0:3])
 print(employees.iloc[[-1, -2]])
 print(employees.iloc[[-1,-2], [3,4]])
+print(employees[employees['Department'] == 'IT'])
+print(employees[employees['Department'] == 'HR'])
+print(employees[employees['Salary'] > 50000])
+print(employees[employees['Salary'] < 50000])
+print(employees[employees['Age'] > 27])
+print(employees[employees['Age'] < 25])
+print(employees[(employees['Salary'] > 50000) & (employees['Age'] < 30)])
+print(employees[(employees['Department'] == 'IT') | (employees['Department'] == 'HR')])
+print(employees[((employees['Salary']<75000) & (employees['Salary']>45000))])
+print(employees[~(employees['Salary']>50000)])
+print(employees.loc['E101'])
+print(employees.loc['E103'])
+print(employees.loc['E103',['Salary']])
+
+print(employees.loc['E102',['Name','Salary']])
+
+
 
 
 
