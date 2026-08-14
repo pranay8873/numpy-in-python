@@ -46,9 +46,20 @@ print(employees[~(employees['Salary']>50000)])
 print(employees.loc['E101'])
 print(employees.loc['E103'])
 print(employees.loc['E103',['Salary']])
-
 print(employees.loc['E102',['Name','Salary']])
+print(employees[employees['Salary'].isin([45000, 70000])])
 
+df3=pd.DataFrame({
+    "name":["pranay","venketesh","sounik","balaganesh","sravya"],
+    "Gender":["male","male","male","female","female"],
+    "Age": [21, 25, 19, 30, 23],
+    "Salary": [50000, 80000, 40000, 90000, 60000],
+    "City": ["Hyderabad", "Mumbai", "Delhi", "Hyderabad", "Chennai"]
+})
+print(df3)
+print(df3[df3["City"].isin(["Hyderabad","Mumbai"])])
+print(df3[df3["Gender"].isin(["male","female"])])
+print(df3[df3["Salary"].between(50000,100000)])
 
 
 
