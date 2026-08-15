@@ -79,6 +79,8 @@ df4=df3[["name","City","Salary"]].where(df3["Gender"]=='male')
 print(df4)
 print("where filter :")
 print(df3.where(df3["Salary"]>50000))
+print("mask filter : ")
+print(df3.mask(df3["Salary"]>50000))
 
 
 
