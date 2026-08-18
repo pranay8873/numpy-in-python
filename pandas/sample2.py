@@ -16,3 +16,4 @@ values=pd.to_numeric(values,errors="coerce")
 print(values)
 data["reveunue"]=data["Price"]*data["Quantity"]
 print(data["reveunue"])
+print(f"high cost products : {data[data["Price"]>60000]}")
