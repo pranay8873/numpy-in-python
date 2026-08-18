@@ -89,3 +89,4 @@ print(df3.mask(df3["Salary"]>50000))
 
 
 
+
