@@ -1,0 +1,41 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Price,City
+ORD1001,2026-07-01,C1001,Laptop,Electronics,2,62000,Hyderabad
+ORD1002,2026-07-01,C1002,Smartphone,Electronics,3,28000,Bengaluru
+ORD1003,2026-07-02,C1003,Office Chair,Furniture,4,8500,Chennai
+ORD1004,2026-07-03,C1004,Monitor,Electronics,5,18500,Hyderabad
+ORD1005,2026-07-04,C1005,Keyboard,Accessories,12,2200,Pune
+ORD1006,2026-07-05,C1006,Mouse,Accessories,18,1200,Mumbai
+ORD1007,2026-07-06,C1007,Laptop,Electronics,1,68000,Delhi
+ORD1008,2026-07-07,C1008,Tablet,Electronics,6,24500,Hyderabad
+ORD1009,2026-07-08,C1009,Desk,Furniture,3,12500,Bengaluru
+ORD1010,2026-07-09,C1010,Headphones,Accessories,8,3500,Chennai
+ORD1011,2026-07-10,C1011,Smartphone,Electronics,4,31000,Mumbai
+ORD1012,2026-07-11,C1012,Monitor,Electronics,2,21000,Pune
+ORD1013,2026-07-12,C1013,Laptop,Electronics,3,59000,Hyderabad
+ORD1014,2026-07-13,C1014,Office Chair,Furniture,6,9200,Delhi
+ORD1015,2026-07-14,C1015,Keyboard,Accessories,15,2400,Bengaluru
+ORD1016,2026-07-15,C1016,Mouse,Accessories,25,1100,Hyderabad
+ORD1017,2026-07-16,C1017,Tablet,Electronics,3,27000,Mumbai
+ORD1018,2026-07-17,C1018,Desk,Furniture,5,11800,Chennai
+ORD1019,2026-07-18,C1019,Headphones,Accessories,10,4200,Pune
+ORD1020,2026-07-19,C1020,Smartphone,Electronics,2,29500,Delhi
+ORD1021,2026-07-20,C1021,Laptop,Electronics,4,65000,Bengaluru
+ORD1022,2026-07-21,C1022,Monitor,Electronics,7,17500,Hyderabad
+ORD1023,2026-07-22,C1023,Office Chair,Furniture,8,7900,Mumbai
+ORD1024,2026-07-23,C1024,Keyboard,Accessories,20,2100,Chennai
+ORD1025,2026-07-24,C1025,Mouse,Accessories,30,1050,Delhi
+ORD1026,2026-07-25,C1026,Tablet,Electronics,5,25500,Pune
+ORD1027,2026-07-26,C1027,Laptop,Electronics,2,61000,Hyderabad
+ORD1028,2026-07-27,C1028,Desk,Furniture,4,13200,Bengaluru
+ORD1029,2026-07-28,C1029,Headphones,Accessories,14,3900,Mumbai
+ORD1030,2026-07-29,C1030,Smartphone,Electronics,5,30500,Chennai
+ORD1031,2026-07-30,C1031,Monitor,Electronics,3,19500,Delhi
+ORD1032,2026-07-31,C1032,Office Chair,Furniture,5,8800,Hyderabad
+ORD1033,2026-08-01,C1033,Laptop,Electronics,3,64000,Pune
+ORD1034,2026-08-02,C1034,Keyboard,Accessories,16,2300,Mumbai
+ORD1035,2026-08-03,C1035,Mouse,Accessories,22,1150,Bengaluru
+ORD1036,2026-08-04,C1036,Tablet,Electronics,4,26000,Hyderabad
+ORD1037,2026-08-05,C1037,Desk,Furniture,7,12100,Delhi
+ORD1038,2026-08-06,C1038,Headphones,Accessories,9,4500,Chennai
+ORD1039,2026-08-07,C1039,Smartphone,Electronics,3,31500,Pune
+ORD1040,2026-08-08,C1040,Laptop,Electronics,2,67500,Mumbai
