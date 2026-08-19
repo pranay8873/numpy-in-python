@@ -33,3 +33,7 @@ print(is_numeric_dtype(data["Price"]))
 print(is_numeric_dtype(data["Order_Date"]))
 data.info()
 print(data["Category"].head(8))
+#null values handling
+import numpy as np
+val=pd.Series([10,20,30,np.nan,40])
+print(val)
