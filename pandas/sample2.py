@@ -17,3 +17,19 @@ print(values)
 data["reveunue"]=data["Price"]*data["Quantity"]
 print(data["reveunue"])
 print(f"high cost products : {data[data["Price"]>60000]}")
+print(data["Category"].dtype)
+data["Category"]=data["Category"].astype("category")
+print(data["Category"].dtype)
+print(data["Category"].cat.categories)
+print(data["Category"].cat.codes)
+print(data.memory_usage(deep=True).sum())
+from pandas.api.types import (
+    is_numeric_dtype,
+    is_datetime64_any_dtype,
+    is_bool_dtype
+)
+
+print(is_numeric_dtype(data["Price"]))
+print(is_numeric_dtype(data["Order_Date"]))
+data.info()
+print(data["Category"].head(8))
