@@ -39,4 +39,10 @@ val=pd.Series([10,20,30,np.nan,40])
 print(val)
 print(data[data["Price"].isna()])
 print(data[data["Price"].isnull()])
+duplicate=data
+print(duplicate)
+duplicate.loc[2,"Price"]=np.nan
+print(duplicate)
+print(duplicate.isna().sum())
+
 
