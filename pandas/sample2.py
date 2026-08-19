@@ -44,5 +44,6 @@ print(duplicate)
 duplicate.loc[2,"Price"]=np.nan
 print(duplicate)
 print(duplicate.isna().sum())
-
+mean=duplicate.isna().mean()*100
+print(mean)
 
