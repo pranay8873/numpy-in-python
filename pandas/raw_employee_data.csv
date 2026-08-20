@@ -1,0 +1,42 @@
+Employee_ID,Name,Gender,Age,Department,Salary,Joining_Date,City,Email,Phone,Performance_Score
+E007,Arjun Kumar,Male,"27",finance,52000,2024-07-01,Bangalore,arjun@gmail.com,9876543215,82
+E001,Pranay Kumar,Male,21,IT,45000,2024-01-15,Hyderabad,pranay@gmail.com,9876543210,85
+E002, Sneha Reddy ,Female,22,HR,42000,15/02/2024,hyderabad,sneha@gmail.com,98765 43211,90
+E003,Rahul Sharma,M,twenty three,IT,50000,2024/03/10,Bangalore,rahul@gmail.com,9988776655,78
+E004,Anjali Rao,Female,"24",Finance,"55,000",10-04-2024,Chennai,anjali@gmail.com,9876543212,92
+E005,Vikram Singh,Male,"25",IT,48000,2024-05-20,Hyderabad,vikramsingh@gmail.com,9876543213,88
+E006,Priya Reddy,Female,,HR,43000,2024-06-12,Hyderabad,priya@gmail.com,9876543214,95
+E007,Arjun Kumar,Male,"27",finance,52000,2024-07-01,Bangalore,arjun@gmail.com,9876543215,82
+E008,Meena Devi,F,28,Finance,55000,01/08/2024,Chennai,meena@gmail.com,9876543216,89
+E009, Kiran Rao,Male,29,IT,47000,2024-09-15, Hyderabad,kiran@gmail.com,9876543217,91
+E010,Suresh Reddy,Male,-5,HR,41000,2024-10-10,Hyderabad,suresh@gmail.com,9876543218,76
+E011,Lakshmi Devi,Female,31,Finance,60000,2024-11-01,Chennai,lakshmi@gmail.com,9876543219,94
+E012,Ravi Kumar,Male,32,IT,62000,2024-12-05,Bangalore,ravi@gmail.com,9876543220,88
+E013,Divya Sharma,Female,26,HR,44000,2025-01-10,Hyderabad,divya@gmail.com,9876543221,87
+E014,Manoj Rao,Male,34,IT,N/A,2025-02-15,Bangalore,manoj@gmail.com,9876543222,80
+E015,Neha Singh,Female,25,Finance,58000,2025-03-01,Chennai,neha@gmail.com,9876543223,93
+E016,Rohit Kumar,Male,27,IT,51000,2025-04-10,Hyderabad,rohit@gmail.com,9876543224,85
+E017,Asha Reddy,Female,29,HR,46000,2025-05-15,Hyderabad,asha@gmail.com,9876543225,90
+E018,Varun Sharma,Male,30,IT,53000,2025-06-20,Bangalore,varun@gmail.com,9876543226,79
+E019,Pooja Rao,Female,28,Finance,57000,2025-07-01,Chennai,pooja@gmail.com,9876543227,88
+E020,Ajay Singh,Male,33,IT,61000,2025-08-15,Hyderabad,ajay@gmail.com,9876543228,96
+E021,Neeraj Kumar,Male,35,HR,45000,2025-09-10,Hyderabad,neeraj@gmail.com,9876543229,84
+E022,Swathi Reddy,Female,27,Finance,59000,2025-10-05,Bangalore,swathi@gmail.com,9876543230,91
+E023, Karthik Rao ,Male,26,IT,50000,2025-11-11,Hyderabad,karthik@gmail.com,9876543231,83
+E024,Anu Sharma,Female,24,HR,42000,2025-12-01,Chennai,anu@gmail.com,9876543232,89
+E025,Ramesh Kumar,Male,40,IT,70000,2026-01-15,Bangalore,ramesh@gmail.com,9876543233,92
+E026,Geetha Devi,Female,38,Finance,65000,2026-02-10,Hyderabad,geetha@gmail.com,9876543234,95
+E027,Sunil Reddy,Male,36,IT,62000,2026-03-20,Bangalore,sunil@gmail.com,9876543235,81
+E028, Divya Sharma ,Female,26,HR,44000,2025-01-10,Hyderabad,divya@gmail.com,9876543221,87
+E029,Manoj Rao,Male,34,IT,N/A,2025-02-15,Bangalore,manoj@gmail.com,9876543222,80
+E030,Rajesh Kumar,Male,999,IT,75000,2026-04-01,Hyderabad,rajesh@gmail,9876543237,105
+E031,Swetha Reddy,Female,23,HR,43000,2026-05-10,hyderabad,swetha@gmail.com,9876543238,89
+E032,John Mathew,Male,Unknown,Sales,55000,2026-06-15,Mumbai,john@gmail.com,9876543239,86
+E033,Farah Khan,Female,27,sales,58000,2026-07-01,Mumbai,farah@gmail.com,9876543240,91
+E034,Arun Kumar,Male,31,IT,60000,invalid_date,Hyderabad,arun@gmail.com,9876543241,88
+E035,Sneha Reddy,Female,22,HR,42000,15/02/2024, Hyderabad ,sneha@gmail.com,98765 43211,90
+E036,Rahul Sharma,M,23,IT,50000,2024/03/10,Bangalore,rahul@gmail.com,9988776655,78
+E037,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+E038,Amit Verma,Male,28,IT,not available,2026-07-15,Delhi,amit@gmail.com,9876543244,82
+E039,Nisha Gupta,Female,29,HR,47000,2026-07-20,Delhi,nisha@gmail.com,9876543245,N/A
+E040,Deepak Joshi,Male,30,Finance,56000,2026-08-01,Delhi,deepak@gmail.com,9876543246,90
