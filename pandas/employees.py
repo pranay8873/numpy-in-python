@@ -36,3 +36,6 @@ print(data["Performance_Score"].dtype)
 print(data)
 data.info()
 print(data[data.isna().any(axis=1)])
+data=data.dropna()
+print(data)
+
