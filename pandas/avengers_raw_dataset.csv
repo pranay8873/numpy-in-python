@@ -1,0 +1,40 @@
+Character,Real_Name,Gender,Age,Team,Movie,Power_Level,Height_cm,Weight_kg,First_Appearance,Status
+Iron Man, Tony Stark,Male,48,Avengers,Iron Man,95,185,102,2008-05-02,Alive
+Captain America,Steve Rogers,M,100,Avengers,Captain America,90,188,108,2011-07-22,Alive
+Thor,Thor Odinson,Male,1500,Avengers,Thor,98,198,290,06/05/2011,Alive
+Hulk,Bruce Banner,Male,49,avengers,The Avengers,N/A,175,115,2012/05/04,Alive
+Black Widow,Natasha Romanoff,Female,38,Avengers,Iron Man 2,82,170,59,2010-05-07,Dead
+Hawkeye,Clint Barton,Male,45,Avengers,Thor,75,190,104,2011-05-06,Alive
+Spider-Man,Peter Parker,Male,17, Avengers ,Captain America: Civil War,88,178,76,2016-05-06,Alive
+Doctor Strange,Stephen Strange,Male,42,Avengers,Doctor Strange,94,180,82,2016-11-04,Alive
+Scarlet Witch,Wanda Maximoff,F,30,Avengers,Age of Ultron,97,165,58,2015-05-01,Alive
+Vision,Vision,Male,3,Avengers,Age of Ultron,96,191,136,2015-05-01,Dead
+Black Panther,T'Challa,Male,35,Avengers,Black Panther,91,183,91,2018-02-16,Dead
+Captain Marvel,Carol Danvers,Female,29,Avengers,Captain Marvel,99,173,61,08-03-2019,Alive
+Ant-Man,Scott Lang,Male,39,Avengers,Ant-Man,78,183,85,2015-07-17,Alive
+Wasp,Hope van Dyne,Female,35,Avengers,Ant-Man and the Wasp,80,163,54,2018-07-06,Alive
+Falcon,Sam Wilson,M,40,Avengers,Captain America: The Winter Soldier,77,180,86,2014-04-04,Alive
+Winter Soldier, Bucky Barnes ,Male,106,Avengers,Captain America: The Winter Soldier,86,175,117,2014-04-04,Alive
+War Machine,James Rhodes,Male,49,Avengers,Iron Man 2,84,185,100,2010-05-07,Alive
+Star-Lord,Peter Quill,Male,38,Guardians,Guardians of the Galaxy,83,188,79,2014-08-01,Alive
+Gamora,Gamora,Female,29,Guardians,Guardians of the Galaxy,89,183,77,2014-08-01,Dead
+Groot,Groot,Unknown,15,Guardians,Guardians of the Galaxy,85,701,385,2014-08-01,Alive
+Rocket,Rocket Raccoon,Male,10,Guardians,Guardians of the Galaxy,88,122,25,2014-08-01,Alive
+Loki,Loki Laufeyson,Male,1048,Villains,Thor,N/A,193,238,2011-05-06,Dead
+Thanos,Thanos,Male,1000,Villains,The Avengers,100,252,447,2012-05-04,Dead
+Ultron,Ultron,Unknown,1,Villains,Age of Ultron,99,unknown,293,2015-05-01,Dead
+Nick Fury,Nick Fury,Male,70,SHIELD,Iron Man,70,185,95,2008-05-02,Alive
+Maria Hill,Maria Hill,Female,36,SHIELD,The Avengers,65,170,62,2012-05-04,Alive
+Phil Coulson,Phil Coulson,Male,52,SHIELD,Iron Man,60,183,85,2008-05-02,Dead
+Wong,Wong,Male,48,Avengers,Doctor Strange,72,178,90,2016-11-04,Alive
+Shang-Chi,Shang-Chi,M,25,Avengers,Shang-Chi,86,178,78,2021-09-03,Alive
+Iron Man, Tony Stark,Male,48,Avengers,Iron Man,95,185,102,2008-05-02,Alive
+Spider-Man,Peter Parker,Male,17, Avengers ,Captain America: Civil War,88,178,76,2016-05-06,Alive
+Thor,Thor Odinson,Male,1500,Avengers,Thor,98,198,290,2011-05-06,Alive
+Bruce Banner,Bruce Banner,Male,forty nine,Avengers,The Avengers,93,175,115,2012-05-04,Alive
+Jane Foster,Jane Foster,Female,34,Avengers,Thor,79,170,60,2011-05-06,Alive
+Deadpool,Wade Wilson,Male,35,X-Men,Deadpool,92,188,95,2016-02-12,Alive
+Wolverine,Logan,Male,137,X-Men,X-Men,94,188,136,2000-07-14,Alive
+Storm,Ororo Munroe,Female,35,X-Men,X-Men,90,180,66,2000-07-14,Alive
+Jean Grey,Jean Grey,FEMALE,30,X-Men,X-Men,96,168,52,2000-07-14,Alive
+Mystique,Raven Darkholme,Female,unknown,X-Men,X-Men,82,175,60,2000-07-14,Alive
