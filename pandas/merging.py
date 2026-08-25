@@ -20,3 +20,17 @@ products = pd.DataFrame({
     "Product": ["Laptop","Monitor","Phone"],
     "Category": ["Electronics","Electronics","Mobile"]
 })
+jan = pd.DataFrame({
+    "Order_ID": ["O101","O102"],
+    "Revenue": [1200,800]
+})
+
+feb = pd.DataFrame({
+    "Order_ID": ["O103","O104"],
+    "Revenue": [2100,600]
+})
+
+combined=pd.concat([jan,feb])
+print(combined)
+combined=pd.concat([jan,feb],axis=1)
+print(f"combined {combined}")
