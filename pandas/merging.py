@@ -30,7 +30,7 @@ feb = pd.DataFrame({
     "Revenue": [2100,600]
 })
 
-combined=pd.concat([jan,feb])
+combined=pd.concat([jan,feb],axis=0)#rows
 print(combined)
-combined=pd.concat([jan,feb],axis=1)
+combined=pd.concat([jan,feb],axis=1)#columns
 print(f"combined {combined}")
