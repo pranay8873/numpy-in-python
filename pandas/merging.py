@@ -34,3 +34,7 @@ combined=pd.concat([jan,feb],axis=0)#rows
 print(combined)
 combined=pd.concat([jan,feb],axis=1)#columns
 print(f"combined {combined}")
+a=pd.DataFrame({"class":['1st','2nd']})
+b=pd.DataFrame({"roll_no":[66,99,90,92]})
+com=pd.concat([a,b])
+print(com)
