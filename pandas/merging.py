@@ -38,3 +38,7 @@ a=pd.DataFrame({"class":['1st','2nd']})
 b=pd.DataFrame({"roll_no":[66,99,90,92]})
 com=pd.concat([a,b])
 print(com)
+b=pd.DataFrame({"roll_no":[66,99,90,92],"sec":['a','b','c','d']})
+
+com=pd.concat([a,b],axis=1)
+print(com)
