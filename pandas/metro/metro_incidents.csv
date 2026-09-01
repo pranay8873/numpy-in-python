@@ -1,0 +1,1801 @@
+Incident_ID,Trip_ID,Incident_Date,Incident_Type,Severity,Delay_Minutes,Resolution_Minutes,Root_Cause,Resolved_By
+INC00001,TP006739,2026-07-08,Signal,Low,12,46,External,Control Room
+INC00002,TP006597,2026-07-30,Medical,High,3,18,Infrastructure,Maintenance
+INC00003,TP011616,2026-01-09,Weather,Medium,18,36,Infrastructure,Maintenance
+INC00004,TP005377,2026-03-24,Weather,Low,12,26,Passenger Volume,Control Room
+INC00005,TP012372,2026-02-28,Door,Medium,12,14,Passenger Volume,Security
+INC00006,TP003473,2026-03-01,Crowding,Medium,3,39,Infrastructure,Control Room
+INC00007,TP019124,2026-08-07,Power,Medium,25,62,Passenger Volume,Security
+INC00008,TP013586,2026-05-25,Door,Medium,50,83,Equipment,Maintenance
+INC00009,TP019993,2026-07-07,Track,Low,35,51,External,Operations
+INC00010,TP005148,2026-02-19,Crowding,Low,50,73,Passenger Volume,Maintenance
+INC00011,TP008198,2026-05-09,Mechanical,Low,8,47,Operations,Security
+INC00012,TP005506,2026-03-17,Signal,Low,3,26,Operations,Operations
+INC00013,TP019771,2026-03-21,Signal,Medium,70,72,Infrastructure,Operations
+INC00014,TP014292,2026-08-09,Door,Critical,12,42,Infrastructure,Security
+INC00015,TP016055,2026-06-23,Power,Medium,8,18,Equipment,Security
+INC00016,TP015115,2026-08-13,Medical,Medium,18,55,External,Security
+INC00017,TP011335,2026-03-06,Crowding,High,3,23,Infrastructure,Security
+INC00018,TP019952,2026-04-10,Signal,Low,5,37,Infrastructure,Security
+INC00019,TP002461,2026-02-12,Crowding,Medium,8,24,Passenger Volume,Security
+INC00020,TP011102,2026-04-10,Mechanical,High,70,104,Operations,Operations
+INC00021,TP017736,2026-06-03,Medical,Medium,18,30,External,Operations
+INC00022,TP007987,2026-05-05,Weather,Medium,12,16,Passenger Volume,Maintenance
+INC00023,TP003172,2026-05-26,Door,Low,12,16,Passenger Volume,Maintenance
+INC00024,TP003846,2026-05-17,Mechanical,Low,18,36,Passenger Volume,Operations
+INC00025,TP013372,2026-05-10,Door,Critical,3,5,Operations,Control Room
+INC00026,TP006375,2026-06-21,Track,Low,3,36,Operations,Operations
+INC00027,TP019418,2026-03-27,Crowding,Medium,8,25,Passenger Volume,Maintenance
+INC00028,TP016459,2026-03-15,Medical,Medium,3,42,Equipment,Maintenance
+INC00029,TP011124,2026-04-13,Mechanical,Critical,5,11,Equipment,Control Room
+INC00030,TP000140,2026-02-04,Track,Low,8,47,External,Control Room
+INC00031,TP007227,2026-01-03,Track,Medium,5,21,Infrastructure,Maintenance
+INC00032,TP016536,2026-03-18,Signal,High,12,36,Infrastructure,Maintenance
+INC00033,TP018364,2026-03-02,Medical,Medium,3,7,Equipment,Maintenance
+INC00034,TP005631,2026-06-12,Power,Low,5,21,Passenger Volume,Operations
+INC00035,TP003009,2026-03-03,Crowding,Medium,25,60,Infrastructure,Maintenance
+INC00036,TP000500,2026-04-20,Medical,Medium,8,13,Passenger Volume,Control Room
+INC00037,TP005610,2026-07-31,Mechanical,Low,5,35,Equipment,Maintenance
+INC00038,TP014756,2026-05-07,Track,Critical,5,16,External,Operations
+INC00039,TP006055,2026-04-13,Mechanical,High,3,6,Passenger Volume,Maintenance
+INC00040,TP006999,2026-02-03,Medical,Low,5,36,Operations,Maintenance
+INC00041,TP002692,2026-02-28,Track,High,3,28,Passenger Volume,Maintenance
+INC00042,TP001337,2026-01-04,Power,Medium,3,14,External,Security
+INC00043,TP012812,2026-06-12,Door,Low,8,21,Equipment,Control Room
+INC00044,TP015579,2026-02-21,Medical,Low,8,25,External,Operations
+INC00045,TP010067,2026-06-24,Signal,Low,8,21,External,Operations
+INC00046,TP015010,2026-04-12,Medical,Medium,5,35,Passenger Volume,Maintenance
+INC00047,TP001521,2026-08-05,Crowding,Low,8,11,Operations,Control Room
+INC00048,TP012023,2026-07-09,Signal,Medium,18,52,Equipment,Security
+INC00049,TP012232,2026-02-03,Medical,Low,3,21,Passenger Volume,Security
+INC00050,TP009464,2026-03-23,Medical,Low,25,45,Operations,Operations
+INC00051,TP015778,2026-01-22,Crowding,Medium,5,20,Passenger Volume,Operations
+INC00052,TP012791,2026-08-05,Power,Low,3,17,Equipment,Operations
+INC00053,TP006758,2026-04-06,Power,Low,35,58,Operations,Maintenance
+INC00054,TP002148,2026-01-21,Weather,High,5,41,Passenger Volume,Control Room
+INC00055,TP005170,2026-01-03,Signal,High,35,46,Equipment,Operations
+INC00056,TP005246,2026-08-27,Mechanical,Low,12,31,Passenger Volume,Control Room
+INC00057,TP019841,2026-04-27,Mechanical,Low,3,12,External,Control Room
+INC00058,TP017353,2026-08-11,Weather,Low,5,22,External,Security
+INC00059,TP001142,2026-05-13,Power,Low,8,19,Equipment,Security
+INC00060,TP019666,2026-02-18,Power,High,3,20,Operations,Maintenance
+INC00061,TP010062,2026-03-17,Door,Low,12,49,Operations,Operations
+INC00062,TP019846,2026-05-21,Track,High,8,34,Passenger Volume,Operations
+INC00063,TP008436,2026-06-25,Crowding,Low,5,15,Passenger Volume,Security
+INC00064,TP009398,2026-07-30,Weather,Low,18,22,Equipment,Operations
+INC00065,TP018501,2026-02-21,Signal,Medium,50,72,Equipment,Maintenance
+INC00066,TP017507,2026-01-12,Signal,Low,50,53,Operations,Operations
+INC00067,TP004825,2026-08-26,Signal,Low,8,30,Equipment,Maintenance
+INC00068,TP019642,2026-02-07,Track,Low,8,25,Operations,Maintenance
+INC00069,TP000624,2026-04-17,Track,Low,12,26,Passenger Volume,Control Room
+INC00070,TP010482,2026-03-30,Door,Critical,5,23,Equipment,Operations
+INC00071,TP011844,2026-03-24,Mechanical,Critical,18,57,Passenger Volume,Maintenance
+INC00072,TP013519,2026-03-16,Power,Low,12,35,External,Security
+INC00073,TP008753,2026-06-20,Track,Medium,8,12,Operations,Security
+INC00074,TP006739,2026-03-16,Medical,Low,8,12,Passenger Volume,Security
+INC00075,TP013327,2026-06-18,Weather,Medium,50,74,Passenger Volume,Control Room
+INC00076,TP013574,2026-02-27,Track,Critical,12,21,External,Maintenance
+INC00077,TP002448,2026-08-25,Medical,High,8,11,Operations,Security
+INC00078,TP007308,2026-06-27,Door,Low,25,45,Equipment,Maintenance
+INC00079,TP008726,2026-07-26,Crowding,Medium,5,31,Passenger Volume,Security
+INC00080,TP001410,2026-03-02,Signal,High,70,76,External,Security
+INC00081,TP004766,2026-03-07,Door,Low,12,33,Equipment,Maintenance
+INC00082,TP004146,2026-06-19,Door,Medium,5,42,Equipment,Security
+INC00083,TP006446,2026-07-13,Track,Medium,12,25,Equipment,Maintenance
+INC00084,TP003279,2026-04-30,Door,High,3,9,External,Control Room
+INC00085,TP011574,2026-08-17,Mechanical,Medium,3,41,Infrastructure,Operations
+INC00086,TP007275,2026-05-28,Medical,Medium,35,71,Operations,Maintenance
+INC00087,TP001939,2026-04-16,Signal,Medium,3,7,Operations,Maintenance
+INC00088,TP005292,2026-06-03,Door,Medium,5,16,Infrastructure,Security
+INC00089,TP002529,2026-07-13,Medical,High,5,8,Infrastructure,Operations
+INC00090,TP004012,2026-06-02,Door,Low,18,25,Operations,Control Room
+INC00091,TP019418,2026-05-01,Crowding,High,18,45,Operations,Operations
+INC00092,TP013792,2026-02-08,Power,Medium,5,33,Equipment,Operations
+INC00093,TP013934,2026-01-18,Signal,Low,12,29,Infrastructure,Control Room
+INC00094,TP006222,2026-07-30,Weather,Medium,25,61,Equipment,Maintenance
+INC00095,TP016074,2026-03-20,Medical,Medium,5,42,Equipment,Security
+INC00096,TP006488,2026-03-13,Signal,Low,12,42,External,Security
+INC00097,TP014892,2026-05-04,Power,High,3,13,Infrastructure,Maintenance
+INC00098,TP013437,2026-05-12,Track,Low,12,43,External,Security
+INC00099,TP010248,2026-06-15,Weather,Low,8,17,Passenger Volume,Control Room
+INC00100,TP015342,2026-08-20,Crowding,Medium,12,45,External,Maintenance
+INC00101,TP019055,2026-06-22,Mechanical,Medium,8,16,Operations,Operations
+INC00102,TP008525,2026-02-21,Crowding,Low,5,32,External,Operations
+INC00103,TP006084,2026-03-17,Power,High,18,55,Operations,Control Room
+INC00104,TP006584,2026-05-26,Crowding,Low,18,46,External,Maintenance
+INC00105,TP017103,2026-02-17,Signal,Medium,25,60,External,Maintenance
+INC00106,TP012598,2026-05-18,Door,Medium,5,29,Equipment,Control Room
+INC00107,TP001146,2026-08-27,Medical,Medium,18,46,Passenger Volume,Maintenance
+INC00108,TP006512,2026-05-19,Door,Low,3,35,Passenger Volume,Control Room
+INC00109,TP009992,2026-08-15,Mechanical,Low,5,11,Passenger Volume,Maintenance
+INC00110,TP002075,2026-06-06,Track,Low,5,15,Infrastructure,Operations
+INC00111,TP010835,2026-01-09,Mechanical,Medium,25,34,Infrastructure,Operations
+INC00112,TP000671,2026-02-12,Medical,Medium,70,82,Infrastructure,Maintenance
+INC00113,TP015374,2026-05-23,Signal,Low,25,60,External,Security
+INC00114,TP003513,2026-04-23,Mechanical,Low,5,14,Passenger Volume,Control Room
+INC00115,TP001788,2026-06-28,Track,Medium,25,34,Equipment,Security
+INC00116,TP008422,2026-01-19,Power,High,25,61,Operations,Maintenance
+INC00117,TP010815,2026-02-12,Weather,Low,12,21,External,Security
+INC00118,TP002976,2026-08-22,Mechanical,Low,12,50,Operations,Security
+INC00119,TP010923,2026-05-15,Signal,Medium,35,62,Infrastructure,Security
+INC00120,TP001181,2026-03-25,Crowding,Low,12,18,Passenger Volume,Maintenance
+INC00121,TP003841,2026-06-02,Signal,High,18,24,Equipment,Maintenance
+INC00122,TP011642,2026-05-30,Medical,High,35,51,Equipment,Operations
+INC00123,TP002646,2026-08-02,Signal,High,70,86,External,Control Room
+INC00124,TP019943,2026-02-21,Signal,Low,3,19,Passenger Volume,Maintenance
+INC00125,TP015243,2026-06-28,Weather,Medium,8,17,Passenger Volume,Security
+INC00126,TP006847,2026-05-22,Medical,Low,35,72,Operations,Operations
+INC00127,TP013426,2026-02-14,Signal,Low,18,20,External,Maintenance
+INC00128,TP007182,2026-08-19,Weather,Low,12,17,Infrastructure,Security
+INC00129,TP000981,2026-08-17,Track,Medium,35,64,External,Control Room
+INC00130,TP018866,2026-06-14,Track,Low,8,44,Operations,Maintenance
+INC00131,TP013990,2026-04-12,Power,Medium,70,96,Infrastructure,Security
+INC00132,TP017952,2026-04-29,Mechanical,Medium,18,22,External,Maintenance
+INC00133,TP008681,2026-08-10,Mechanical,Medium,70,94,Infrastructure,Operations
+INC00134,TP003021,2026-02-24,Signal,Medium,12,36,External,Operations
+INC00135,TP019757,2026-08-26,Door,Low,18,20,Passenger Volume,Control Room
+INC00136,TP000453,2026-04-20,Door,Low,12,21,Operations,Operations
+INC00137,TP010334,2026-04-15,Power,High,8,25,Passenger Volume,Security
+INC00138,TP002444,2026-02-12,Crowding,Low,3,14,External,Maintenance
+INC00139,TP004056,2026-04-13,Medical,Low,3,36,Passenger Volume,Operations
+INC00140,TP016881,2026-04-30,Weather,Low,8,17,Passenger Volume,Control Room
+INC00141,TP011760,2026-03-09,Door,Low,18,32,Infrastructure,Maintenance
+INC00142,TP006773,2026-07-04,Crowding,High,8,37,External,Maintenance
+INC00143,TP013444,2026-05-18,Power,High,35,61,Operations,Operations
+INC00144,TP009020,2026-08-10,Door,Low,50,70,Infrastructure,Operations
+INC00145,TP007550,2026-05-15,Door,Low,3,32,External,Maintenance
+INC00146,TP007742,2026-02-02,Door,Low,8,38,Equipment,Control Room
+INC00147,TP016514,2026-01-21,Medical,Low,35,52,External,Maintenance
+INC00148,TP003565,2026-04-10,Signal,Medium,12,44,Equipment,Maintenance
+INC00149,TP011954,2026-06-24,Medical,Medium,50,78,Operations,Maintenance
+INC00150,TP005575,2026-01-03,Track,Low,12,48,External,Maintenance
+INC00151,TP018605,2026-03-20,Door,Medium,3,13,Equipment,Operations
+INC00152,TP018322,2026-08-02,Power,Low,3,22,Operations,Maintenance
+INC00153,TP007945,2026-06-30,Weather,Low,8,29,Passenger Volume,Operations
+INC00154,TP000875,2026-05-25,Crowding,High,3,38,Infrastructure,Security
+INC00155,TP003821,2026-06-04,Medical,Low,18,43,Equipment,Control Room
+INC00156,TP015707,2026-03-01,Door,Low,8,38,Infrastructure,Operations
+INC00157,TP008211,2026-01-02,Door,Medium,25,60,Passenger Volume,Security
+INC00158,TP014054,2026-02-26,Track,Low,8,37,Passenger Volume,Operations
+INC00159,TP008196,2026-01-15,Medical,High,3,30,Infrastructure,Security
+INC00160,TP004387,2026-04-21,Signal,Critical,8,25,Equipment,Operations
+INC00161,TP011455,2026-03-18,Medical,Low,5,12,Infrastructure,Control Room
+INC00162,TP014011,2026-06-25,Mechanical,Medium,3,42,Operations,Maintenance
+INC00163,TP010720,2026-03-26,Signal,Critical,12,49,Passenger Volume,Maintenance
+INC00164,TP008829,2026-05-02,Signal,Medium,5,31,Passenger Volume,Control Room
+INC00165,TP010370,2026-06-24,Mechanical,Low,3,24,Operations,Control Room
+INC00166,TP016532,2026-03-17,Track,Low,18,51,External,Maintenance
+INC00167,TP003302,2026-07-22,Crowding,Medium,18,47,Infrastructure,Security
+INC00168,TP001334,2026-05-04,Weather,Low,3,10,Equipment,Operations
+INC00169,TP018177,2026-03-09,Signal,Low,12,50,Equipment,Maintenance
+INC00170,TP004046,2026-07-19,Door,Low,12,49,Operations,Security
+INC00171,TP017156,2026-08-14,Weather,Medium,18,37,Equipment,Maintenance
+INC00172,TP006029,2026-05-21,Weather,Medium,18,42,Equipment,Security
+INC00173,TP019440,2026-08-02,Mechanical,Critical,5,28,External,Control Room
+INC00174,TP012254,2026-04-02,Medical,Medium,12,26,External,Operations
+INC00175,TP001024,2026-06-28,Weather,High,8,21,Equipment,Security
+INC00176,TP002360,2026-04-01,Power,Low,18,28,Operations,Maintenance
+INC00177,TP010677,2026-05-01,Signal,Low,5,34,Infrastructure,Control Room
+INC00178,TP017363,2026-04-10,Medical,Medium,8,43,Passenger Volume,Control Room
+INC00179,TP001024,2026-05-04,Signal,Low,3,26,External,Security
+INC00180,TP014520,2026-06-19,Crowding,Medium,3,19,Equipment,Maintenance
+INC00181,TP003176,2026-05-22,Power,Medium,18,26,Operations,Operations
+INC00182,TP005639,2026-03-21,Track,Medium,3,41,External,Maintenance
+INC00183,TP010868,2026-08-21,Signal,Critical,18,36,External,Control Room
+INC00184,TP012046,2026-07-12,Medical,Critical,3,32,Operations,Security
+INC00185,TP013275,2026-01-09,Signal,Low,5,40,Infrastructure,Security
+INC00186,TP015418,2026-03-01,Power,High,25,63,Equipment,Maintenance
+INC00187,TP000766,2026-07-21,Track,Low,5,21,External,Control Room
+INC00188,TP010001,2026-03-16,Power,Low,25,40,External,Security
+INC00189,TP002626,2026-01-07,Medical,Medium,70,102,External,Operations
+INC00190,TP012927,2026-06-20,Signal,Low,8,13,Infrastructure,Security
+INC00191,TP002062,2026-01-20,Crowding,Low,35,47,Infrastructure,Operations
+INC00192,TP009124,2026-01-06,Power,Low,3,13,Passenger Volume,Operations
+INC00193,TP017793,2026-02-25,Door,Low,8,17,Equipment,Control Room
+INC00194,TP010135,2026-08-23,Weather,Low,5,18,External,Security
+INC00195,TP002053,2026-05-28,Door,Low,25,62,External,Control Room
+INC00196,TP002026,2026-04-04,Medical,Low,18,52,Infrastructure,Maintenance
+INC00197,TP009549,2026-05-29,Track,Low,3,35,Infrastructure,Security
+INC00198,TP010863,2026-01-28,Weather,Medium,8,46,Equipment,Operations
+INC00199,TP014722,2026-05-17,Door,Low,3,22,Operations,Maintenance
+INC00200,TP007674,2026-04-16,Power,Low,5,37,Infrastructure,Operations
+INC00201,TP002076,2026-04-26,Track,Low,18,54,Equipment,Operations
+INC00202,TP011111,2026-03-12,Crowding,Low,5,22,Passenger Volume,Operations
+INC00203,TP006092,2026-06-19,Weather,Medium,25,37,Infrastructure,Control Room
+INC00204,TP001315,2026-05-06,Power,Medium,12,16,Passenger Volume,Control Room
+INC00205,TP009067,2026-06-27,Weather,High,50,77,Passenger Volume,Security
+INC00206,TP004594,2026-01-01,Mechanical,Low,50,52,Operations,Control Room
+INC00207,TP011074,2026-01-19,Weather,Low,18,53,Infrastructure,Operations
+INC00208,TP018888,2026-05-29,Medical,Low,18,55,Passenger Volume,Control Room
+INC00209,TP011579,2026-05-20,Power,High,3,23,Operations,Maintenance
+INC00210,TP012269,2026-01-17,Crowding,Low,18,33,Passenger Volume,Maintenance
+INC00211,TP015758,2026-08-06,Track,High,12,36,Infrastructure,Operations
+INC00212,TP010759,2026-03-13,Medical,High,18,46,Infrastructure,Security
+INC00213,TP018439,2026-02-27,Medical,Medium,5,16,External,Control Room
+INC00214,TP008416,2026-07-27,Medical,Low,3,40,Passenger Volume,Maintenance
+INC00215,TP018300,2026-02-18,Power,Low,5,27,Infrastructure,Security
+INC00216,TP003078,2026-04-24,Signal,Low,5,36,Equipment,Control Room
+INC00217,TP006465,2026-04-15,Signal,Low,5,24,Operations,Security
+INC00218,TP009865,2026-08-11,Crowding,Low,5,15,Infrastructure,Control Room
+INC00219,TP007251,2026-02-17,Crowding,Medium,50,81,Equipment,Control Room
+INC00220,TP016757,2026-08-20,Medical,High,8,30,Equipment,Security
+INC00221,TP005942,2026-05-17,Power,Low,8,22,Operations,Operations
+INC00222,TP002886,2026-04-19,Door,Low,5,28,Equipment,Operations
+INC00223,TP006976,2026-01-05,Door,Critical,18,31,Equipment,Security
+INC00224,TP017353,2026-05-19,Medical,Low,18,32,Equipment,Control Room
+INC00225,TP011863,2026-07-22,Signal,Low,12,43,Equipment,Maintenance
+INC00226,TP004926,2026-05-29,Medical,Low,18,52,Equipment,Maintenance
+INC00227,TP004162,2026-04-17,Crowding,Medium,5,35,Operations,Operations
+INC00228,TP003881,2026-02-16,Signal,Medium,8,31,Equipment,Security
+INC00229,TP005337,2026-03-10,Door,Low,12,19,Passenger Volume,Security
+INC00230,TP013061,2026-02-28,Power,Medium,25,39,Passenger Volume,Security
+INC00231,TP002740,2026-01-06,Power,Medium,25,38,Passenger Volume,Maintenance
+INC00232,TP003898,2026-01-17,Track,Low,12,44,Operations,Control Room
+INC00233,TP013203,2026-01-19,Power,Medium,12,40,Equipment,Operations
+INC00234,TP009510,2026-07-14,Mechanical,Medium,12,42,Operations,Security
+INC00235,TP007249,2026-06-07,Weather,Medium,8,11,Infrastructure,Security
+INC00236,TP007992,2026-08-13,Track,Medium,25,28,Operations,Security
+INC00237,TP011326,2026-02-04,Mechanical,Critical,3,41,Operations,Security
+INC00238,TP006065,2026-08-27,Track,Low,3,21,Equipment,Operations
+INC00239,TP014730,2026-07-04,Track,Low,3,12,External,Security
+INC00240,TP017177,2026-07-11,Weather,Low,8,43,Operations,Operations
+INC00241,TP006761,2026-02-08,Weather,Medium,25,41,Passenger Volume,Maintenance
+INC00242,TP003064,2026-02-19,Crowding,Low,3,15,Infrastructure,Maintenance
+INC00243,TP014361,2026-04-04,Medical,Medium,3,27,Operations,Control Room
+INC00244,TP002255,2026-07-19,Crowding,Low,8,33,Operations,Maintenance
+INC00245,TP000058,2026-06-30,Mechanical,Low,3,38,Equipment,Operations
+INC00246,TP019284,2026-05-24,Door,Low,3,33,External,Operations
+INC00247,TP001080,2026-05-30,Weather,Low,3,6,Operations,Maintenance
+INC00248,TP005412,2026-03-05,Crowding,Low,8,40,External,Security
+INC00249,TP012505,2026-02-16,Signal,Medium,18,31,Operations,Security
+INC00250,TP000877,2026-03-12,Crowding,Low,8,18,Equipment,Control Room
+INC00251,TP005911,2026-01-30,Medical,Low,12,24,Infrastructure,Control Room
+INC00252,TP011798,2026-02-19,Weather,Low,12,27,External,Maintenance
+INC00253,TP013239,2026-02-06,Weather,High,25,49,External,Maintenance
+INC00254,TP018523,2026-05-24,Medical,High,18,47,Equipment,Security
+INC00255,TP002679,2026-04-12,Medical,Medium,50,65,Equipment,Control Room
+INC00256,TP009627,2026-05-30,Signal,Medium,50,84,Operations,Maintenance
+INC00257,TP014605,2026-06-22,Medical,Low,8,42,Infrastructure,Security
+INC00258,TP016994,2026-07-28,Track,Low,8,44,Equipment,Control Room
+INC00259,TP012076,2026-04-19,Weather,Low,12,20,Infrastructure,Operations
+INC00260,TP008458,2026-08-28,Mechanical,Low,8,34,Equipment,Security
+INC00261,TP001774,2026-06-01,Signal,Low,12,49,Equipment,Operations
+INC00262,TP018663,2026-04-05,Crowding,Medium,35,49,External,Control Room
+INC00263,TP002150,2026-02-20,Power,Medium,18,26,Equipment,Maintenance
+INC00264,TP000928,2026-06-02,Medical,Medium,3,23,Passenger Volume,Operations
+INC00265,TP018007,2026-01-15,Mechanical,Low,5,8,Infrastructure,Operations
+INC00266,TP014361,2026-05-16,Crowding,Low,35,72,Passenger Volume,Operations
+INC00267,TP002782,2026-07-23,Power,Medium,3,23,External,Security
+INC00268,TP002844,2026-06-28,Power,Low,3,24,Equipment,Control Room
+INC00269,TP005569,2026-05-13,Power,Medium,35,47,Operations,Operations
+INC00270,TP011933,2026-06-15,Power,Low,5,17,Operations,Control Room
+INC00271,TP003057,2026-05-15,Crowding,Critical,3,13,Operations,Security
+INC00272,TP017694,2026-06-10,Signal,High,8,20,Infrastructure,Control Room
+INC00273,TP014522,2026-05-29,Power,High,3,19,Infrastructure,Maintenance
+INC00274,TP013619,2026-06-30,Weather,Medium,5,10,Infrastructure,Operations
+INC00275,TP013628,2026-02-24,Door,Low,12,34,Operations,Control Room
+INC00276,TP010970,2026-07-13,Weather,High,3,37,External,Maintenance
+INC00277,TP012310,2026-05-06,Crowding,High,8,34,Operations,Security
+INC00278,TP012475,2026-01-30,Crowding,High,50,61,Passenger Volume,Security
+INC00279,TP008049,2026-04-04,Medical,Medium,18,27,External,Control Room
+INC00280,TP016167,2026-04-06,Mechanical,Low,5,23,Infrastructure,Operations
+INC00281,TP018991,2026-06-17,Crowding,Low,25,41,Infrastructure,Security
+INC00282,TP019036,2026-08-24,Crowding,High,8,39,Passenger Volume,Control Room
+INC00283,TP007845,2026-01-20,Track,Low,3,17,Passenger Volume,Security
+INC00284,TP011320,2026-01-12,Medical,Medium,25,46,Equipment,Security
+INC00285,TP000528,2026-04-03,Signal,High,25,44,Passenger Volume,Security
+INC00286,TP002126,2026-06-18,Medical,Medium,50,84,External,Operations
+INC00287,TP005354,2026-03-21,Mechanical,High,5,19,Infrastructure,Operations
+INC00288,TP003114,2026-02-24,Mechanical,Critical,3,7,Operations,Operations
+INC00289,TP017100,2026-05-20,Door,High,3,5,Operations,Maintenance
+INC00290,TP010684,2026-05-21,Power,Medium,12,37,Operations,Operations
+INC00291,TP019683,2026-08-11,Crowding,Medium,5,27,Infrastructure,Control Room
+INC00292,TP013113,2026-06-18,Medical,Low,3,20,External,Security
+INC00293,TP001267,2026-03-09,Signal,High,18,26,Passenger Volume,Maintenance
+INC00294,TP011868,2026-01-23,Signal,Medium,5,26,External,Operations
+INC00295,TP016621,2026-08-12,Crowding,Critical,3,20,Equipment,Operations
+INC00296,TP002216,2026-07-16,Door,Low,5,19,External,Control Room
+INC00297,TP016909,2026-01-09,Track,High,3,35,External,Control Room
+INC00298,TP007372,2026-07-05,Crowding,Medium,8,45,Infrastructure,Security
+INC00299,TP011548,2026-07-03,Crowding,Low,3,9,Equipment,Maintenance
+INC00300,TP018858,2026-05-18,Mechanical,Low,18,42,Equipment,Control Room
+INC00301,TP001102,2026-02-27,Track,Medium,5,26,Infrastructure,Operations
+INC00302,TP002127,2026-04-23,Power,Medium,12,42,Operations,Security
+INC00303,TP002123,2026-01-15,Weather,Low,12,31,Passenger Volume,Control Room
+INC00304,TP015617,2026-02-21,Door,Medium,18,43,Passenger Volume,Control Room
+INC00305,TP013345,2026-05-23,Weather,High,8,43,External,Security
+INC00306,TP010556,2026-01-18,Power,Low,70,76,External,Security
+INC00307,TP009752,2026-05-04,Power,High,5,40,Operations,Control Room
+INC00308,TP015209,2026-07-10,Power,Medium,12,27,Passenger Volume,Security
+INC00309,TP008012,2026-05-24,Weather,Low,12,17,External,Control Room
+INC00310,TP013381,2026-04-26,Weather,Low,3,15,Passenger Volume,Maintenance
+INC00311,TP001305,2026-07-20,Medical,Critical,18,35,Passenger Volume,Maintenance
+INC00312,TP003995,2026-01-20,Door,Low,8,35,Infrastructure,Control Room
+INC00313,TP006637,2026-01-23,Crowding,Medium,5,37,Operations,Control Room
+INC00314,TP012404,2026-03-14,Weather,Medium,18,57,External,Maintenance
+INC00315,TP014506,2026-03-12,Door,Low,5,15,Passenger Volume,Maintenance
+INC00316,TP007018,2026-08-15,Signal,Low,5,22,Passenger Volume,Operations
+INC00317,TP014921,2026-01-09,Crowding,Medium,5,31,Operations,Operations
+INC00318,TP017913,2026-01-28,Power,Medium,5,7,Infrastructure,Maintenance
+INC00319,TP016214,2026-08-26,Track,Medium,18,56,Infrastructure,Security
+INC00320,TP017534,2026-08-22,Door,Critical,12,22,Equipment,Maintenance
+INC00321,TP002740,2026-06-14,Mechanical,Low,8,14,Equipment,Operations
+INC00322,TP010468,2026-05-23,Weather,Medium,12,38,Operations,Control Room
+INC00323,TP002505,2026-04-07,Door,High,18,44,External,Maintenance
+INC00324,TP012505,2026-03-13,Medical,Low,8,29,Passenger Volume,Operations
+INC00325,TP010717,2026-02-06,Crowding,Critical,3,7,Equipment,Maintenance
+INC00326,TP011253,2026-07-07,Track,High,5,29,Equipment,Operations
+INC00327,TP017904,2026-06-28,Crowding,Low,5,9,Passenger Volume,Maintenance
+INC00328,TP008503,2026-02-14,Power,Low,12,31,Operations,Operations
+INC00329,TP015791,2026-03-05,Medical,Low,25,51,External,Operations
+INC00330,TP006810,2026-01-21,Crowding,High,5,9,Operations,Maintenance
+INC00331,TP006206,2026-05-05,Power,Low,3,37,Passenger Volume,Control Room
+INC00332,TP014876,2026-08-12,Track,Low,12,46,Passenger Volume,Control Room
+INC00333,TP006034,2026-07-04,Mechanical,Low,50,52,Operations,Control Room
+INC00334,TP019475,2026-03-30,Power,Medium,12,46,Infrastructure,Maintenance
+INC00335,TP007018,2026-07-29,Mechanical,High,3,29,External,Operations
+INC00336,TP012288,2026-03-07,Weather,Low,25,39,Operations,Maintenance
+INC00337,TP003947,2026-03-05,Door,Low,8,16,Equipment,Control Room
+INC00338,TP009217,2026-06-30,Mechanical,Medium,35,74,Operations,Operations
+INC00339,TP018917,2026-02-15,Crowding,Low,3,26,Equipment,Control Room
+INC00340,TP013335,2026-04-30,Power,Medium,3,17,Passenger Volume,Operations
+INC00341,TP014459,2026-07-26,Door,Medium,3,5,Passenger Volume,Control Room
+INC00342,TP008931,2026-07-13,Crowding,Low,25,32,Passenger Volume,Control Room
+INC00343,TP018150,2026-07-31,Crowding,Low,12,19,Operations,Maintenance
+INC00344,TP013660,2026-07-12,Weather,Critical,18,33,Passenger Volume,Maintenance
+INC00345,TP007388,2026-01-06,Track,Low,25,28,Operations,Security
+INC00346,TP012005,2026-03-25,Track,Low,8,20,Passenger Volume,Operations
+INC00347,TP016857,2026-04-05,Medical,High,25,60,Infrastructure,Security
+INC00348,TP019349,2026-03-09,Signal,High,3,32,Operations,Security
+INC00349,TP009374,2026-07-27,Weather,High,18,48,Infrastructure,Operations
+INC00350,TP016181,2026-08-02,Track,Low,12,41,Infrastructure,Operations
+INC00351,TP011094,2026-03-16,Signal,Medium,12,38,Operations,Control Room
+INC00352,TP016391,2026-01-07,Crowding,Low,18,32,Passenger Volume,Operations
+INC00353,TP006816,2026-02-03,Power,Low,8,41,Operations,Control Room
+INC00354,TP002580,2026-03-01,Door,Low,18,44,Passenger Volume,Maintenance
+INC00355,TP016155,2026-06-07,Signal,Critical,12,18,Equipment,Security
+INC00356,TP000265,2026-01-18,Crowding,Medium,3,15,Infrastructure,Operations
+INC00357,TP006012,2026-07-15,Track,Medium,18,21,Equipment,Operations
+INC00358,TP010159,2026-07-25,Medical,Low,5,12,External,Operations
+INC00359,TP019059,2026-08-22,Crowding,Medium,25,44,Operations,Control Room
+INC00360,TP016024,2026-03-29,Medical,Medium,12,31,Passenger Volume,Operations
+INC00361,TP018889,2026-04-08,Signal,High,8,32,Infrastructure,Security
+INC00362,TP014852,2026-08-15,Track,Medium,18,41,Equipment,Operations
+INC00363,TP008596,2026-04-20,Signal,High,3,29,External,Maintenance
+INC00364,TP002326,2026-01-14,Power,Low,70,90,Equipment,Control Room
+INC00365,TP007042,2026-08-11,Medical,Low,35,48,Passenger Volume,Maintenance
+INC00366,TP013619,2026-01-10,Power,Critical,25,52,Passenger Volume,Control Room
+INC00367,TP011409,2026-06-07,Weather,Low,5,17,Passenger Volume,Security
+INC00368,TP015463,2026-07-30,Medical,Critical,12,20,External,Maintenance
+INC00369,TP018544,2026-06-22,Weather,Medium,50,61,Equipment,Control Room
+INC00370,TP015389,2026-01-04,Signal,Low,12,49,Passenger Volume,Security
+INC00371,TP012216,2026-01-17,Signal,Medium,3,24,External,Control Room
+INC00372,TP004972,2026-03-20,Power,Low,3,36,Operations,Operations
+INC00373,TP011973,2026-08-03,Crowding,Critical,3,32,Operations,Maintenance
+INC00374,TP006294,2026-04-19,Door,Critical,8,35,Equipment,Operations
+INC00375,TP002737,2026-07-27,Door,High,5,23,Equipment,Security
+INC00376,TP006970,2026-01-14,Mechanical,Low,12,33,External,Operations
+INC00377,TP007712,2026-05-08,Power,Low,25,44,Equipment,Security
+INC00378,TP004855,2026-08-08,Medical,Low,18,53,Passenger Volume,Control Room
+INC00379,TP015121,2026-07-21,Medical,Medium,3,38,Passenger Volume,Operations
+INC00380,TP008136,2026-07-17,Mechanical,Medium,8,10,Operations,Security
+INC00381,TP003616,2026-05-31,Crowding,Low,3,24,Infrastructure,Maintenance
+INC00382,TP019324,2026-07-29,Track,Medium,12,26,Equipment,Security
+INC00383,TP000391,2026-03-08,Signal,Critical,25,27,Operations,Security
+INC00384,TP009705,2026-04-27,Mechanical,Low,12,33,Equipment,Security
+INC00385,TP005304,2026-06-29,Crowding,Medium,8,15,Equipment,Control Room
+INC00386,TP003479,2026-03-31,Crowding,High,3,16,Equipment,Operations
+INC00387,TP004030,2026-05-05,Power,Medium,3,35,Passenger Volume,Operations
+INC00388,TP017071,2026-01-05,Power,Low,5,8,Infrastructure,Maintenance
+INC00389,TP011271,2026-04-01,Power,High,18,21,External,Maintenance
+INC00390,TP001108,2026-01-11,Medical,Medium,3,9,Passenger Volume,Operations
+INC00391,TP002807,2026-06-17,Crowding,Low,5,12,Operations,Security
+INC00392,TP003882,2026-04-25,Door,Medium,18,49,Infrastructure,Security
+INC00393,TP007301,2026-03-03,Medical,Medium,18,30,Equipment,Security
+INC00394,TP000481,2026-07-25,Power,High,3,22,Equipment,Maintenance
+INC00395,TP015247,2026-05-21,Crowding,Low,8,31,Equipment,Security
+INC00396,TP006247,2026-02-28,Signal,Low,8,15,External,Control Room
+INC00397,TP006979,2026-08-11,Weather,Medium,25,57,Equipment,Operations
+INC00398,TP006680,2026-05-16,Medical,Medium,8,36,External,Operations
+INC00399,TP007740,2026-05-18,Medical,Low,3,14,Operations,Control Room
+INC00400,TP008145,2026-05-24,Crowding,Low,25,31,External,Security
+INC00401,TP001565,2026-02-09,Power,Low,25,59,Passenger Volume,Maintenance
+INC00402,TP012275,2026-01-29,Weather,Low,18,48,Equipment,Operations
+INC00403,TP007515,2026-06-20,Mechanical,High,3,37,Operations,Security
+INC00404,TP013320,2026-02-10,Signal,High,8,13,Equipment,Operations
+INC00405,TP014539,2026-03-20,Power,Medium,12,35,Passenger Volume,Maintenance
+INC00406,TP016509,2026-01-20,Mechanical,Medium,5,40,Infrastructure,Control Room
+INC00407,TP012356,2026-04-25,Track,Low,25,46,External,Operations
+INC00408,TP003155,2026-06-19,Track,Low,8,14,Equipment,Operations
+INC00409,TP003050,2026-08-25,Door,Low,5,44,Operations,Maintenance
+INC00410,TP006834,2026-06-15,Signal,High,8,41,Operations,Security
+INC00411,TP006250,2026-01-10,Medical,Medium,25,42,Operations,Control Room
+INC00412,TP015130,2026-02-09,Weather,Low,8,47,Infrastructure,Operations
+INC00413,TP003774,2026-02-14,Weather,Low,8,34,Passenger Volume,Operations
+INC00414,TP017002,2026-03-08,Medical,Low,18,37,Operations,Security
+INC00415,TP009945,2026-06-30,Medical,Low,5,8,Operations,Maintenance
+INC00416,TP014609,2026-01-22,Mechanical,Medium,18,49,Operations,Security
+INC00417,TP019594,2026-06-25,Track,High,18,24,Infrastructure,Maintenance
+INC00418,TP018386,2026-02-25,Door,Medium,25,37,Operations,Control Room
+INC00419,TP007429,2026-01-03,Weather,Low,3,12,Passenger Volume,Maintenance
+INC00420,TP002443,2026-03-30,Power,Low,50,61,Passenger Volume,Operations
+INC00421,TP011809,2026-04-22,Weather,Medium,3,14,External,Maintenance
+INC00422,TP016479,2026-02-22,Mechanical,Medium,12,20,Equipment,Maintenance
+INC00423,TP006048,2026-02-22,Crowding,High,25,37,Infrastructure,Operations
+INC00424,TP009255,2026-05-18,Weather,Low,5,21,Passenger Volume,Operations
+INC00425,TP017096,2026-04-02,Power,Medium,3,35,External,Operations
+INC00426,TP018656,2026-01-25,Weather,High,12,33,Passenger Volume,Maintenance
+INC00427,TP011919,2026-03-14,Track,Medium,25,59,Passenger Volume,Maintenance
+INC00428,TP019212,2026-04-10,Mechanical,Low,3,23,Infrastructure,Operations
+INC00429,TP009138,2026-06-15,Crowding,Medium,3,26,External,Operations
+INC00430,TP019632,2026-03-30,Door,Low,35,62,Infrastructure,Security
+INC00431,TP018002,2026-02-22,Power,Low,50,55,Operations,Maintenance
+INC00432,TP007590,2026-02-23,Signal,High,8,12,Equipment,Maintenance
+INC00433,TP003423,2026-01-08,Crowding,Low,5,16,Equipment,Security
+INC00434,TP003722,2026-08-21,Door,High,12,32,Operations,Operations
+INC00435,TP019309,2026-01-07,Weather,Medium,5,20,External,Control Room
+INC00436,TP007225,2026-04-09,Mechanical,Medium,50,88,Operations,Operations
+INC00437,TP007633,2026-05-22,Power,Medium,3,19,Equipment,Operations
+INC00438,TP016936,2026-04-19,Track,Low,18,53,Equipment,Control Room
+INC00439,TP011158,2026-07-08,Door,Low,50,60,Equipment,Control Room
+INC00440,TP000246,2026-08-11,Signal,Low,3,26,Infrastructure,Control Room
+INC00441,TP011256,2026-04-01,Crowding,Medium,18,46,Operations,Control Room
+INC00442,TP012192,2026-04-28,Mechanical,Low,8,27,Passenger Volume,Control Room
+INC00443,TP016668,2026-08-14,Medical,High,50,84,Infrastructure,Control Room
+INC00444,TP019992,2026-04-20,Medical,Low,5,20,Equipment,Security
+INC00445,TP019147,2026-07-21,Crowding,Low,5,34,Passenger Volume,Maintenance
+INC00446,TP018757,2026-07-16,Track,Low,8,13,Equipment,Operations
+INC00447,TP005448,2026-01-18,Power,Medium,8,20,External,Maintenance
+INC00448,TP005907,2026-04-08,Signal,Low,8,20,Equipment,Control Room
+INC00449,TP008100,2026-02-06,Signal,Medium,5,7,Passenger Volume,Operations
+INC00450,TP013919,2026-02-05,Signal,Low,3,14,Passenger Volume,Control Room
+INC00451,TP013219,2026-04-08,Weather,Low,50,69,External,Control Room
+INC00452,TP019322,2026-07-10,Power,Medium,70,91,Passenger Volume,Operations
+INC00453,TP009812,2026-01-29,Track,Low,50,58,Operations,Maintenance
+INC00454,TP006657,2026-04-27,Signal,Low,8,33,Infrastructure,Operations
+INC00455,TP004344,2026-03-15,Mechanical,Low,50,62,Passenger Volume,Operations
+INC00456,TP006197,2026-03-25,Mechanical,Low,18,28,Passenger Volume,Operations
+INC00457,TP013145,2026-02-01,Power,Low,35,70,Passenger Volume,Control Room
+INC00458,TP018631,2026-06-06,Crowding,Low,25,62,Infrastructure,Operations
+INC00459,TP013530,2026-06-25,Medical,High,50,78,Operations,Security
+INC00460,TP017940,2026-04-09,Medical,Medium,50,58,Equipment,Operations
+INC00461,TP003525,2026-01-20,Track,Medium,12,28,Equipment,Control Room
+INC00462,TP000675,2026-04-08,Signal,High,5,44,Equipment,Control Room
+INC00463,TP013447,2026-03-13,Mechanical,High,5,11,Operations,Security
+INC00464,TP000780,2026-02-07,Signal,Low,3,34,Equipment,Control Room
+INC00465,TP019456,2026-03-09,Crowding,Medium,35,45,Equipment,Control Room
+INC00466,TP008580,2026-01-01,Medical,Medium,5,28,Passenger Volume,Maintenance
+INC00467,TP000786,2026-04-13,Door,High,5,9,Infrastructure,Operations
+INC00468,TP015094,2026-04-10,Weather,High,8,13,Passenger Volume,Operations
+INC00469,TP017351,2026-07-12,Mechanical,Medium,12,16,Operations,Control Room
+INC00470,TP009839,2026-04-30,Track,Low,18,46,External,Control Room
+INC00471,TP012576,2026-06-02,Mechanical,Critical,3,28,External,Operations
+INC00472,TP005030,2026-02-15,Signal,Low,25,62,Passenger Volume,Control Room
+INC00473,TP015841,2026-08-26,Weather,Low,8,12,Operations,Maintenance
+INC00474,TP015600,2026-05-18,Medical,Low,70,82,Operations,Control Room
+INC00475,TP015253,2026-05-17,Medical,Low,8,46,Operations,Operations
+INC00476,TP006267,2026-01-05,Mechanical,Medium,18,39,Operations,Operations
+INC00477,TP013621,2026-05-19,Power,Low,3,35,Equipment,Maintenance
+INC00478,TP018640,2026-04-23,Weather,Low,3,17,External,Maintenance
+INC00479,TP001604,2026-05-19,Weather,Medium,5,25,Equipment,Operations
+INC00480,TP000545,2026-07-19,Crowding,Low,5,8,Passenger Volume,Security
+INC00481,TP005708,2026-05-29,Crowding,Low,8,24,Passenger Volume,Security
+INC00482,TP014010,2026-02-15,Power,Low,3,18,Passenger Volume,Operations
+INC00483,TP000152,2026-08-17,Weather,High,18,33,External,Security
+INC00484,TP003231,2026-02-18,Mechanical,Medium,12,47,Passenger Volume,Security
+INC00485,TP005835,2026-04-06,Track,Low,35,49,Infrastructure,Control Room
+INC00486,TP019347,2026-04-21,Track,High,12,49,Operations,Security
+INC00487,TP010752,2026-01-27,Crowding,Low,3,31,Operations,Maintenance
+INC00488,TP001200,2026-06-19,Door,Medium,25,57,Infrastructure,Security
+INC00489,TP009616,2026-04-13,Weather,Low,12,37,Equipment,Security
+INC00490,TP017623,2026-06-14,Track,Low,8,23,Operations,Operations
+INC00491,TP002387,2026-08-06,Crowding,High,50,80,External,Maintenance
+INC00492,TP003257,2026-06-06,Crowding,Medium,3,24,External,Maintenance
+INC00493,TP011768,2026-01-22,Medical,Medium,25,59,External,Control Room
+INC00494,TP007784,2026-07-20,Track,Medium,8,18,External,Security
+INC00495,TP010938,2026-04-21,Track,Medium,3,17,Equipment,Maintenance
+INC00496,TP013408,2026-02-25,Signal,Low,5,18,Operations,Maintenance
+INC00497,TP009200,2026-07-08,Door,Low,12,17,External,Security
+INC00498,TP009758,2026-06-30,Weather,Low,5,8,Equipment,Control Room
+INC00499,TP001490,2026-03-30,Medical,High,5,25,Infrastructure,Operations
+INC00500,TP006861,2026-03-10,Power,Medium,5,29,Equipment,Security
+INC00501,TP007590,2026-03-11,Mechanical,High,35,64,Operations,Control Room
+INC00502,TP001390,2026-04-27,Power,Low,5,43,Infrastructure,Maintenance
+INC00503,TP005274,2026-06-24,Medical,Low,18,47,Infrastructure,Operations
+INC00504,TP005253,2026-02-20,Door,Medium,5,21,External,Operations
+INC00505,TP001786,2026-08-15,Mechanical,Low,12,51,Passenger Volume,Control Room
+INC00506,TP016011,2026-02-15,Signal,Low,12,50,Equipment,Control Room
+INC00507,TP001951,2026-04-21,Track,Low,12,29,Passenger Volume,Maintenance
+INC00508,TP005622,2026-04-09,Mechanical,Medium,5,21,Infrastructure,Control Room
+INC00509,TP007796,2026-01-10,Door,Low,25,50,Equipment,Control Room
+INC00510,TP005000,2026-01-13,Door,Critical,8,20,Equipment,Maintenance
+INC00511,TP001429,2026-08-22,Signal,High,3,28,Infrastructure,Operations
+INC00512,TP012779,2026-04-27,Mechanical,Low,5,32,External,Maintenance
+INC00513,TP000364,2026-07-23,Signal,Low,8,14,Equipment,Control Room
+INC00514,TP012978,2026-05-16,Signal,Low,35,51,External,Maintenance
+INC00515,TP001841,2026-07-30,Crowding,Low,8,42,Operations,Security
+INC00516,TP008411,2026-03-25,Crowding,Low,35,52,Equipment,Control Room
+INC00517,TP009050,2026-03-12,Track,Low,3,38,Operations,Operations
+INC00518,TP017588,2026-05-20,Signal,Critical,3,22,External,Maintenance
+INC00519,TP002704,2026-04-17,Track,Medium,5,24,Infrastructure,Security
+INC00520,TP019534,2026-08-04,Signal,High,12,47,Operations,Control Room
+INC00521,TP000745,2026-06-23,Power,Medium,3,35,External,Control Room
+INC00522,TP016287,2026-05-17,Weather,Medium,8,18,Equipment,Maintenance
+INC00523,TP001419,2026-07-27,Weather,Low,18,52,External,Security
+INC00524,TP003074,2026-06-19,Power,Low,25,56,External,Security
+INC00525,TP000005,2026-05-22,Crowding,High,5,19,Equipment,Operations
+INC00526,TP002198,2026-03-29,Door,Low,35,68,Operations,Control Room
+INC00527,TP012433,2026-05-29,Door,Low,18,47,External,Maintenance
+INC00528,TP017017,2026-06-14,Mechanical,Low,70,78,Operations,Control Room
+INC00529,TP019829,2026-01-19,Mechanical,Low,18,30,Equipment,Control Room
+INC00530,TP015422,2026-02-15,Weather,Low,25,43,Infrastructure,Control Room
+INC00531,TP015482,2026-02-17,Track,Low,8,47,Operations,Maintenance
+INC00532,TP008090,2026-04-26,Power,Medium,50,54,Infrastructure,Security
+INC00533,TP010304,2026-02-08,Signal,Critical,18,44,Passenger Volume,Control Room
+INC00534,TP010351,2026-04-06,Door,Medium,5,16,Operations,Operations
+INC00535,TP017197,2026-06-07,Door,Low,25,45,Infrastructure,Operations
+INC00536,TP018083,2026-03-12,Signal,Low,70,80,Equipment,Control Room
+INC00537,TP016247,2026-01-12,Medical,Low,25,32,External,Operations
+INC00538,TP005066,2026-01-14,Mechanical,Low,18,55,External,Control Room
+INC00539,TP016517,2026-08-05,Crowding,Low,3,24,Equipment,Control Room
+INC00540,TP006024,2026-04-17,Mechanical,Low,18,26,Infrastructure,Control Room
+INC00541,TP008081,2026-05-03,Weather,Medium,35,57,External,Security
+INC00542,TP013037,2026-08-03,Medical,High,18,35,Operations,Operations
+INC00543,TP019439,2026-04-08,Medical,Medium,12,26,Infrastructure,Security
+INC00544,TP018025,2026-07-17,Power,Medium,25,36,Operations,Operations
+INC00545,TP019495,2026-07-31,Power,Low,3,22,Passenger Volume,Maintenance
+INC00546,TP002287,2026-03-07,Mechanical,Low,25,44,Operations,Control Room
+INC00547,TP011064,2026-08-26,Signal,Low,25,40,Equipment,Security
+INC00548,TP015728,2026-03-29,Weather,High,25,52,External,Maintenance
+INC00549,TP018308,2026-04-22,Medical,High,8,42,Operations,Operations
+INC00550,TP004582,2026-01-25,Signal,High,3,42,Passenger Volume,Control Room
+INC00551,TP003330,2026-02-16,Crowding,Low,25,39,Operations,Operations
+INC00552,TP017802,2026-04-11,Power,Low,5,20,Operations,Control Room
+INC00553,TP017903,2026-07-07,Mechanical,Medium,25,59,Equipment,Operations
+INC00554,TP001739,2026-08-19,Weather,Medium,8,40,Infrastructure,Maintenance
+INC00555,TP018530,2026-01-27,Signal,Low,8,39,Passenger Volume,Security
+INC00556,TP003339,2026-03-05,Weather,Low,25,33,External,Security
+INC00557,TP018984,2026-03-14,Track,Medium,35,64,External,Control Room
+INC00558,TP017747,2026-07-31,Door,Low,5,27,Equipment,Security
+INC00559,TP013907,2026-01-22,Mechanical,Low,5,37,External,Control Room
+INC00560,TP002774,2026-01-09,Door,Medium,8,29,Operations,Operations
+INC00561,TP000714,2026-07-17,Weather,Low,8,45,Passenger Volume,Control Room
+INC00562,TP000121,2026-04-02,Crowding,Low,25,49,External,Security
+INC00563,TP001094,2026-07-25,Power,Medium,5,39,Passenger Volume,Operations
+INC00564,TP000492,2026-07-15,Door,Critical,8,20,Infrastructure,Control Room
+INC00565,TP003729,2026-05-20,Weather,Low,18,24,Equipment,Maintenance
+INC00566,TP012868,2026-01-03,Door,Low,18,33,External,Operations
+INC00567,TP002387,2026-02-18,Track,High,12,21,Infrastructure,Maintenance
+INC00568,TP005667,2026-03-28,Crowding,High,5,13,Passenger Volume,Control Room
+INC00569,TP014764,2026-01-29,Power,Low,8,14,Infrastructure,Operations
+INC00570,TP007963,2026-07-25,Door,Low,12,24,Operations,Control Room
+INC00571,TP003808,2026-05-23,Power,Low,8,15,Passenger Volume,Control Room
+INC00572,TP002747,2026-06-06,Crowding,High,3,5,Infrastructure,Operations
+INC00573,TP017666,2026-08-06,Medical,Low,25,56,Infrastructure,Control Room
+INC00574,TP013012,2026-04-12,Weather,Low,12,20,Infrastructure,Maintenance
+INC00575,TP003826,2026-02-19,Track,Low,12,26,Passenger Volume,Security
+INC00576,TP003518,2026-01-16,Signal,Medium,50,61,External,Maintenance
+INC00577,TP009494,2026-01-07,Signal,High,70,96,External,Control Room
+INC00578,TP007840,2026-02-26,Crowding,Low,5,40,External,Security
+INC00579,TP001978,2026-01-02,Power,Medium,8,26,Operations,Security
+INC00580,TP019004,2026-06-09,Medical,Critical,25,29,Equipment,Security
+INC00581,TP000967,2026-05-28,Signal,High,50,79,Infrastructure,Control Room
+INC00582,TP015408,2026-06-20,Power,Medium,8,38,Equipment,Security
+INC00583,TP012253,2026-04-05,Crowding,Low,50,62,External,Control Room
+INC00584,TP017753,2026-07-21,Signal,High,12,27,Operations,Maintenance
+INC00585,TP004650,2026-05-20,Signal,Low,8,39,Infrastructure,Control Room
+INC00586,TP004864,2026-07-22,Crowding,Low,5,19,Infrastructure,Maintenance
+INC00587,TP016756,2026-03-23,Track,High,25,63,Equipment,Operations
+INC00588,TP005966,2026-02-23,Mechanical,High,8,27,Equipment,Control Room
+INC00589,TP015072,2026-05-10,Medical,Low,5,33,Operations,Operations
+INC00590,TP000787,2026-01-22,Mechanical,Critical,18,45,Infrastructure,Security
+INC00591,TP014174,2026-05-02,Mechanical,Low,25,37,Operations,Security
+INC00592,TP009854,2026-06-22,Medical,Medium,25,31,Equipment,Control Room
+INC00593,TP006218,2026-02-12,Door,Low,18,31,External,Control Room
+INC00594,TP006412,2026-03-14,Signal,Low,5,26,External,Control Room
+INC00595,TP006082,2026-03-25,Signal,Low,8,46,Operations,Control Room
+INC00596,TP000920,2026-02-18,Weather,Medium,12,23,Operations,Operations
+INC00597,TP017874,2026-01-15,Mechanical,Low,3,29,Passenger Volume,Security
+INC00598,TP010729,2026-03-18,Mechanical,Medium,3,20,Infrastructure,Security
+INC00599,TP014292,2026-03-11,Signal,Medium,3,40,Equipment,Control Room
+INC00600,TP004521,2026-04-29,Power,Low,12,23,External,Security
+INC00601,TP014164,2026-05-12,Signal,Low,8,32,Infrastructure,Control Room
+INC00602,TP004298,2026-01-25,Track,Medium,25,49,Infrastructure,Security
+INC00603,TP000378,2026-08-24,Power,Critical,8,38,Equipment,Security
+INC00604,TP019973,2026-06-08,Track,Medium,12,20,Operations,Maintenance
+INC00605,TP005594,2026-03-06,Power,Medium,12,15,External,Maintenance
+INC00606,TP005738,2026-02-05,Door,Low,50,53,Equipment,Security
+INC00607,TP008587,2026-04-03,Weather,Low,70,87,External,Security
+INC00608,TP005747,2026-05-24,Track,Medium,8,34,Equipment,Security
+INC00609,TP015491,2026-06-19,Track,Medium,50,71,External,Operations
+INC00610,TP017312,2026-01-27,Power,Low,25,39,Operations,Control Room
+INC00611,TP014622,2026-05-27,Door,Medium,5,19,Infrastructure,Security
+INC00612,TP008475,2026-04-01,Track,Low,3,5,Infrastructure,Maintenance
+INC00613,TP009206,2026-06-06,Power,Low,8,14,Infrastructure,Maintenance
+INC00614,TP001737,2026-08-07,Signal,Medium,12,38,External,Security
+INC00615,TP016075,2026-05-18,Crowding,Medium,12,31,Operations,Control Room
+INC00616,TP003847,2026-06-23,Door,Low,3,17,External,Maintenance
+INC00617,TP000835,2026-08-25,Signal,High,8,42,Passenger Volume,Maintenance
+INC00618,TP019543,2026-06-17,Track,Low,70,100,Operations,Security
+INC00619,TP010179,2026-07-15,Signal,Medium,35,69,Equipment,Maintenance
+INC00620,TP010157,2026-01-14,Signal,High,8,19,External,Operations
+INC00621,TP014154,2026-01-14,Medical,Low,12,36,Infrastructure,Maintenance
+INC00622,TP011941,2026-07-02,Signal,Medium,12,34,Operations,Security
+INC00623,TP017387,2026-06-25,Weather,High,3,9,Passenger Volume,Security
+INC00624,TP004450,2026-07-01,Signal,Medium,5,41,Passenger Volume,Operations
+INC00625,TP013274,2026-03-20,Mechanical,High,12,30,Equipment,Security
+INC00626,TP008471,2026-08-18,Power,Medium,5,14,Operations,Security
+INC00627,TP016624,2026-01-18,Track,Low,25,48,Infrastructure,Security
+INC00628,TP006073,2026-03-26,Door,Low,3,30,Infrastructure,Security
+INC00629,TP016884,2026-08-01,Medical,Low,18,31,External,Control Room
+INC00630,TP010102,2026-08-20,Power,Low,8,47,Infrastructure,Security
+INC00631,TP014586,2026-03-15,Power,Low,8,44,Passenger Volume,Operations
+INC00632,TP012851,2026-06-12,Power,Low,5,20,Operations,Control Room
+INC00633,TP017809,2026-04-11,Door,Low,3,25,Operations,Security
+INC00634,TP012309,2026-03-18,Power,Medium,12,25,Infrastructure,Maintenance
+INC00635,TP014911,2026-01-15,Weather,Critical,8,15,Equipment,Security
+INC00636,TP009462,2026-08-25,Track,Medium,3,29,Operations,Control Room
+INC00637,TP000723,2026-03-28,Power,Low,8,16,Passenger Volume,Control Room
+INC00638,TP009068,2026-01-28,Signal,Medium,70,82,Equipment,Operations
+INC00639,TP009114,2026-02-04,Track,Low,5,9,Infrastructure,Maintenance
+INC00640,TP007947,2026-08-25,Signal,Low,5,34,Operations,Security
+INC00641,TP010265,2026-01-12,Crowding,Low,5,34,Equipment,Operations
+INC00642,TP014305,2026-07-20,Track,High,5,20,Equipment,Control Room
+INC00643,TP010978,2026-07-31,Power,High,50,86,Infrastructure,Security
+INC00644,TP001377,2026-07-16,Weather,Low,3,41,Infrastructure,Maintenance
+INC00645,TP012688,2026-03-08,Signal,Medium,3,35,Infrastructure,Operations
+INC00646,TP001844,2026-06-04,Medical,Medium,18,46,Equipment,Maintenance
+INC00647,TP001304,2026-01-23,Door,Low,18,28,External,Maintenance
+INC00648,TP013586,2026-01-08,Weather,Medium,8,20,Equipment,Operations
+INC00649,TP009413,2026-08-05,Track,Critical,18,44,Equipment,Operations
+INC00650,TP009253,2026-06-05,Medical,Medium,5,23,External,Security
+INC00651,TP015376,2026-05-22,Track,Low,35,42,Passenger Volume,Maintenance
+INC00652,TP009478,2026-07-23,Weather,Critical,12,29,Operations,Security
+INC00653,TP004621,2026-01-15,Door,Medium,50,79,Equipment,Control Room
+INC00654,TP016367,2026-04-13,Weather,High,25,56,Infrastructure,Control Room
+INC00655,TP014691,2026-03-09,Power,Low,5,36,Infrastructure,Security
+INC00656,TP006536,2026-07-22,Medical,Medium,18,37,Operations,Maintenance
+INC00657,TP000790,2026-03-13,Power,Low,18,52,Infrastructure,Control Room
+INC00658,TP017639,2026-04-07,Signal,Medium,8,46,Operations,Control Room
+INC00659,TP008142,2026-03-31,Power,High,18,50,Equipment,Control Room
+INC00660,TP012761,2026-05-10,Signal,Medium,18,38,External,Control Room
+INC00661,TP019010,2026-07-08,Door,Low,50,89,Equipment,Control Room
+INC00662,TP010208,2026-04-03,Door,Low,8,13,Passenger Volume,Maintenance
+INC00663,TP009259,2026-08-24,Power,Low,18,25,External,Control Room
+INC00664,TP009355,2026-07-26,Medical,Low,12,40,External,Maintenance
+INC00665,TP008271,2026-01-15,Door,Low,50,81,External,Maintenance
+INC00666,TP014161,2026-07-06,Medical,High,18,23,Infrastructure,Maintenance
+INC00667,TP008853,2026-05-18,Medical,Low,3,38,External,Security
+INC00668,TP002164,2026-07-15,Track,High,18,43,Operations,Control Room
+INC00669,TP014539,2026-01-16,Weather,Low,5,33,Equipment,Maintenance
+INC00670,TP014055,2026-04-09,Weather,Medium,5,11,Infrastructure,Security
+INC00671,TP002581,2026-07-16,Medical,Medium,50,58,Infrastructure,Control Room
+INC00672,TP009165,2026-02-12,Crowding,High,8,45,Passenger Volume,Maintenance
+INC00673,TP012612,2026-02-27,Weather,Low,12,30,External,Maintenance
+INC00674,TP018605,2026-03-13,Weather,Medium,3,40,Operations,Operations
+INC00675,TP016858,2026-03-21,Track,Medium,3,12,Operations,Operations
+INC00676,TP004269,2026-06-01,Door,Low,50,88,Equipment,Security
+INC00677,TP009890,2026-06-30,Crowding,Low,3,12,Infrastructure,Security
+INC00678,TP018654,2026-05-16,Medical,Low,18,46,Equipment,Control Room
+INC00679,TP015581,2026-01-30,Mechanical,Low,3,31,Equipment,Security
+INC00680,TP013253,2026-07-30,Crowding,Low,25,29,Infrastructure,Security
+INC00681,TP005609,2026-07-29,Weather,Low,5,28,Equipment,Maintenance
+INC00682,TP000642,2026-03-29,Medical,High,8,25,Operations,Maintenance
+INC00683,TP008018,2026-05-26,Medical,Low,18,46,Infrastructure,Operations
+INC00684,TP004021,2026-01-18,Mechanical,Low,18,21,Equipment,Security
+INC00685,TP018308,2026-08-20,Mechanical,Low,50,62,External,Operations
+INC00686,TP018419,2026-04-13,Medical,Low,3,42,External,Maintenance
+INC00687,TP019896,2026-08-20,Weather,High,5,19,Equipment,Security
+INC00688,TP011781,2026-08-24,Power,High,12,48,Equipment,Control Room
+INC00689,TP019527,2026-03-21,Track,High,5,9,Infrastructure,Operations
+INC00690,TP007584,2026-02-15,Signal,Medium,3,15,Operations,Operations
+INC00691,TP018007,2026-07-08,Medical,Low,3,25,Operations,Maintenance
+INC00692,TP015197,2026-01-14,Crowding,Medium,5,17,Equipment,Security
+INC00693,TP004738,2026-03-17,Weather,Medium,8,12,Passenger Volume,Security
+INC00694,TP016619,2026-03-10,Power,Low,3,20,Operations,Maintenance
+INC00695,TP012164,2026-07-09,Track,Low,5,41,Operations,Control Room
+INC00696,TP019559,2026-01-17,Mechanical,High,35,50,Equipment,Control Room
+INC00697,TP016162,2026-03-16,Medical,High,5,11,Infrastructure,Control Room
+INC00698,TP016815,2026-04-01,Mechanical,Medium,25,57,Passenger Volume,Control Room
+INC00699,TP015108,2026-01-05,Signal,Medium,35,38,Equipment,Operations
+INC00700,TP007780,2026-06-24,Weather,Low,50,59,Infrastructure,Control Room
+INC00701,TP011846,2026-06-28,Power,Medium,18,20,Operations,Maintenance
+INC00702,TP007586,2026-07-20,Crowding,Medium,18,21,Infrastructure,Control Room
+INC00703,TP003445,2026-06-25,Signal,Critical,5,28,Infrastructure,Operations
+INC00704,TP006741,2026-08-20,Mechanical,Low,8,31,Equipment,Maintenance
+INC00705,TP018111,2026-03-18,Mechanical,Medium,8,11,Operations,Control Room
+INC00706,TP006015,2026-06-09,Signal,Low,5,23,Equipment,Maintenance
+INC00707,TP003283,2026-08-26,Mechanical,High,5,42,Infrastructure,Security
+INC00708,TP019325,2026-08-09,Medical,Low,3,10,Operations,Control Room
+INC00709,TP001042,2026-06-27,Weather,Medium,3,19,Operations,Control Room
+INC00710,TP017682,2026-01-23,Medical,High,25,37,Infrastructure,Operations
+INC00711,TP001533,2026-08-10,Signal,Medium,18,35,Infrastructure,Operations
+INC00712,TP006187,2026-03-25,Door,Low,12,31,Equipment,Operations
+INC00713,TP017162,2026-05-31,Door,Medium,12,27,Infrastructure,Control Room
+INC00714,TP009936,2026-04-22,Crowding,Critical,12,15,Operations,Security
+INC00715,TP018739,2026-04-23,Medical,Critical,18,21,Infrastructure,Maintenance
+INC00716,TP008649,2026-07-26,Weather,High,8,17,Infrastructure,Maintenance
+INC00717,TP006593,2026-01-04,Door,Low,25,30,Passenger Volume,Maintenance
+INC00718,TP015289,2026-08-07,Signal,High,12,47,Operations,Security
+INC00719,TP013678,2026-03-09,Signal,High,5,22,External,Maintenance
+INC00720,TP013075,2026-06-23,Mechanical,High,8,13,Passenger Volume,Security
+INC00721,TP012467,2026-07-20,Power,High,3,37,Operations,Operations
+INC00722,TP016996,2026-06-13,Medical,Low,8,17,Operations,Security
+INC00723,TP019405,2026-08-04,Medical,Low,8,19,Infrastructure,Security
+INC00724,TP015061,2026-01-01,Weather,Medium,18,29,Infrastructure,Maintenance
+INC00725,TP004732,2026-06-30,Weather,Medium,12,33,External,Maintenance
+INC00726,TP009323,2026-02-07,Mechanical,Medium,12,49,Passenger Volume,Control Room
+INC00727,TP006525,2026-02-28,Door,Medium,5,30,Infrastructure,Security
+INC00728,TP001579,2026-08-23,Signal,Low,5,28,Equipment,Operations
+INC00729,TP002326,2026-06-18,Track,High,35,68,External,Security
+INC00730,TP011622,2026-08-27,Track,High,3,19,Passenger Volume,Security
+INC00731,TP009713,2026-08-20,Track,Medium,8,40,External,Control Room
+INC00732,TP012472,2026-06-21,Door,Low,8,31,Equipment,Maintenance
+INC00733,TP018972,2026-07-19,Mechanical,Low,18,23,Passenger Volume,Control Room
+INC00734,TP003526,2026-04-15,Medical,Medium,8,12,External,Control Room
+INC00735,TP014686,2026-07-02,Medical,Low,3,22,Passenger Volume,Security
+INC00736,TP006170,2026-06-18,Power,High,12,46,Infrastructure,Control Room
+INC00737,TP001694,2026-07-15,Track,Low,18,46,Equipment,Maintenance
+INC00738,TP019369,2026-06-09,Door,Low,8,29,Equipment,Operations
+INC00739,TP004059,2026-05-14,Power,Low,18,34,External,Control Room
+INC00740,TP016167,2026-01-31,Crowding,Low,3,19,Infrastructure,Control Room
+INC00741,TP015585,2026-07-21,Power,Critical,25,61,Equipment,Control Room
+INC00742,TP006561,2026-03-09,Crowding,High,18,24,Operations,Security
+INC00743,TP015974,2026-07-26,Track,High,12,32,Operations,Operations
+INC00744,TP006289,2026-02-23,Crowding,Low,12,29,Passenger Volume,Security
+INC00745,TP009235,2026-07-09,Medical,Low,5,21,Passenger Volume,Security
+INC00746,TP007578,2026-07-13,Track,Medium,25,52,Equipment,Operations
+INC00747,TP013604,2026-06-24,Crowding,Medium,12,43,Operations,Security
+INC00748,TP011815,2026-06-09,Signal,High,35,51,Operations,Maintenance
+INC00749,TP018113,2026-05-23,Medical,Low,8,43,Equipment,Control Room
+INC00750,TP016248,2026-08-06,Crowding,Low,12,21,Passenger Volume,Control Room
+INC00751,TP010612,2026-07-25,Crowding,Low,5,44,External,Maintenance
+INC00752,TP016222,2026-02-18,Signal,Medium,3,23,Operations,Control Room
+INC00753,TP006216,2026-07-11,Mechanical,Low,12,18,Infrastructure,Operations
+INC00754,TP014766,2026-06-15,Crowding,High,18,30,Operations,Operations
+INC00755,TP006495,2026-08-09,Mechanical,High,18,48,Infrastructure,Security
+INC00756,TP004777,2026-05-20,Crowding,Low,3,37,Equipment,Control Room
+INC00757,TP007189,2026-05-24,Track,Low,3,34,Infrastructure,Operations
+INC00758,TP000069,2026-02-14,Signal,Low,8,23,Equipment,Security
+INC00759,TP019703,2026-01-16,Mechanical,Low,3,13,Equipment,Security
+INC00760,TP011136,2026-08-26,Power,Low,5,15,Passenger Volume,Control Room
+INC00761,TP007117,2026-02-09,Door,High,3,5,Passenger Volume,Maintenance
+INC00762,TP015381,2026-04-18,Mechanical,Low,8,47,Infrastructure,Maintenance
+INC00763,TP009350,2026-07-04,Track,High,25,30,Passenger Volume,Security
+INC00764,TP002519,2026-04-08,Door,Low,18,53,Equipment,Security
+INC00765,TP002092,2026-05-30,Power,Medium,25,48,External,Operations
+INC00766,TP008037,2026-07-19,Medical,Medium,5,24,External,Security
+INC00767,TP014503,2026-01-18,Medical,Low,18,29,Infrastructure,Security
+INC00768,TP017124,2026-07-28,Power,Low,8,47,Infrastructure,Maintenance
+INC00769,TP004332,2026-06-03,Signal,Medium,8,39,Equipment,Operations
+INC00770,TP015291,2026-04-12,Crowding,High,8,28,Operations,Maintenance
+INC00771,TP009895,2026-03-03,Door,Medium,5,31,Operations,Control Room
+INC00772,TP016011,2026-02-18,Weather,Medium,8,35,External,Maintenance
+INC00773,TP016158,2026-06-22,Medical,Medium,5,42,Equipment,Operations
+INC00774,TP003524,2026-06-09,Track,Medium,12,45,External,Security
+INC00775,TP010337,2026-08-11,Track,Medium,8,35,External,Maintenance
+INC00776,TP006259,2026-04-28,Crowding,Critical,12,47,Operations,Security
+INC00777,TP002221,2026-02-03,Medical,Low,18,32,Equipment,Operations
+INC00778,TP010500,2026-03-04,Crowding,Medium,3,35,External,Security
+INC00779,TP002295,2026-06-09,Crowding,High,3,32,External,Security
+INC00780,TP018515,2026-07-22,Mechanical,Medium,25,50,Equipment,Maintenance
+INC00781,TP002751,2026-04-03,Track,Medium,18,31,Equipment,Maintenance
+INC00782,TP016335,2026-04-24,Door,Low,8,11,Equipment,Operations
+INC00783,TP018851,2026-06-13,Medical,Low,5,41,Infrastructure,Security
+INC00784,TP006884,2026-03-12,Medical,Medium,5,38,Passenger Volume,Control Room
+INC00785,TP017381,2026-06-14,Crowding,Critical,8,45,Equipment,Maintenance
+INC00786,TP007337,2026-02-04,Power,Low,25,42,Operations,Maintenance
+INC00787,TP009530,2026-01-27,Track,Low,8,23,Equipment,Security
+INC00788,TP019868,2026-05-30,Crowding,Low,12,44,Infrastructure,Control Room
+INC00789,TP001420,2026-07-28,Signal,Medium,3,23,Passenger Volume,Security
+INC00790,TP010434,2026-05-31,Mechanical,Medium,3,35,Equipment,Security
+INC00791,TP013579,2026-05-07,Power,Low,18,32,Equipment,Maintenance
+INC00792,TP014964,2026-02-19,Track,Low,8,18,External,Maintenance
+INC00793,TP010782,2026-04-20,Weather,Critical,12,42,Equipment,Operations
+INC00794,TP008654,2026-08-06,Signal,Low,5,28,Operations,Security
+INC00795,TP001051,2026-03-29,Track,Medium,3,24,Infrastructure,Control Room
+INC00796,TP000867,2026-07-18,Signal,Low,3,36,Passenger Volume,Control Room
+INC00797,TP011299,2026-06-09,Power,Low,5,39,Infrastructure,Maintenance
+INC00798,TP007631,2026-06-04,Power,Medium,5,21,Infrastructure,Security
+INC00799,TP005122,2026-05-19,Crowding,Medium,12,47,Operations,Security
+INC00800,TP000918,2026-01-03,Crowding,Low,18,30,Operations,Operations
+INC00801,TP002487,2026-01-15,Power,High,5,32,Operations,Operations
+INC00802,TP012736,2026-04-17,Door,Medium,12,35,Operations,Security
+INC00803,TP017995,2026-07-25,Medical,Medium,18,41,Equipment,Control Room
+INC00804,TP013179,2026-03-30,Medical,High,5,25,Passenger Volume,Maintenance
+INC00805,TP012339,2026-01-08,Door,Low,25,27,External,Operations
+INC00806,TP001486,2026-07-23,Track,High,5,44,Operations,Control Room
+INC00807,TP004904,2026-08-02,Weather,High,3,27,External,Security
+INC00808,TP005868,2026-01-22,Crowding,Medium,5,13,Operations,Control Room
+INC00809,TP017728,2026-08-19,Power,High,70,77,Equipment,Maintenance
+INC00810,TP012698,2026-07-23,Mechanical,High,8,17,Passenger Volume,Control Room
+INC00811,TP004868,2026-08-04,Track,Medium,8,26,Infrastructure,Operations
+INC00812,TP015999,2026-02-14,Weather,Low,3,13,Operations,Control Room
+INC00813,TP015166,2026-03-29,Weather,Low,3,39,Infrastructure,Security
+INC00814,TP017278,2026-05-19,Track,High,50,79,Passenger Volume,Control Room
+INC00815,TP000411,2026-04-28,Crowding,Medium,3,19,External,Maintenance
+INC00816,TP014274,2026-02-09,Track,Low,5,32,Passenger Volume,Security
+INC00817,TP002896,2026-06-25,Medical,High,18,39,Infrastructure,Security
+INC00818,TP011589,2026-05-03,Track,Low,12,21,Operations,Maintenance
+INC00819,TP003419,2026-07-28,Track,Low,35,66,Infrastructure,Operations
+INC00820,TP002102,2026-02-16,Crowding,Low,25,64,External,Operations
+INC00821,TP004319,2026-03-05,Door,High,3,10,Infrastructure,Control Room
+INC00822,TP003679,2026-01-14,Crowding,Low,50,79,Infrastructure,Security
+INC00823,TP015888,2026-07-06,Mechanical,Low,5,29,Passenger Volume,Maintenance
+INC00824,TP003007,2026-06-08,Door,Critical,8,11,Passenger Volume,Operations
+INC00825,TP019272,2026-08-11,Medical,Medium,50,67,Passenger Volume,Security
+INC00826,TP000076,2026-07-03,Door,Low,18,41,Operations,Security
+INC00827,TP009228,2026-01-01,Door,Low,3,32,Infrastructure,Maintenance
+INC00828,TP015009,2026-02-02,Mechanical,Medium,70,101,External,Control Room
+INC00829,TP014321,2026-08-07,Mechanical,High,35,53,Equipment,Operations
+INC00830,TP019362,2026-01-16,Signal,Critical,3,40,Infrastructure,Maintenance
+INC00831,TP013863,2026-03-19,Track,High,25,51,Passenger Volume,Control Room
+INC00832,TP012793,2026-05-22,Mechanical,High,8,47,Operations,Operations
+INC00833,TP018901,2026-08-04,Medical,Medium,5,34,External,Security
+INC00834,TP006951,2026-03-31,Medical,Low,5,17,External,Maintenance
+INC00835,TP014353,2026-04-11,Door,Low,25,34,Infrastructure,Security
+INC00836,TP009968,2026-02-15,Weather,Medium,25,60,Equipment,Maintenance
+INC00837,TP012425,2026-03-31,Power,Low,12,50,External,Operations
+INC00838,TP012484,2026-01-10,Mechanical,Low,12,37,Operations,Control Room
+INC00839,TP010740,2026-04-11,Crowding,Medium,8,30,Operations,Maintenance
+INC00840,TP001792,2026-01-28,Weather,Low,50,61,Infrastructure,Control Room
+INC00841,TP005653,2026-04-24,Crowding,Low,18,50,Operations,Control Room
+INC00842,TP004637,2026-03-01,Power,Low,5,26,Infrastructure,Operations
+INC00843,TP012970,2026-02-16,Crowding,Medium,8,37,Infrastructure,Maintenance
+INC00844,TP012763,2026-05-30,Power,Low,25,39,Equipment,Maintenance
+INC00845,TP017010,2026-01-06,Medical,Low,12,19,Operations,Maintenance
+INC00846,TP004572,2026-08-12,Medical,Low,18,52,Infrastructure,Operations
+INC00847,TP001587,2026-03-08,Crowding,Low,3,28,Passenger Volume,Security
+INC00848,TP015348,2026-04-12,Track,Medium,5,11,Passenger Volume,Maintenance
+INC00849,TP006947,2026-07-30,Door,Low,5,12,Operations,Control Room
+INC00850,TP005125,2026-05-21,Signal,Medium,12,16,External,Control Room
+INC00851,TP010022,2026-06-28,Medical,Medium,3,21,External,Security
+INC00852,TP016383,2026-05-21,Track,Low,3,7,Operations,Security
+INC00853,TP002811,2026-07-28,Mechanical,Low,8,12,Passenger Volume,Operations
+INC00854,TP008454,2026-04-08,Mechanical,Low,25,47,Infrastructure,Operations
+INC00855,TP019663,2026-06-05,Track,Low,8,30,Equipment,Control Room
+INC00856,TP001388,2026-05-12,Mechanical,High,5,39,Passenger Volume,Operations
+INC00857,TP012923,2026-02-07,Weather,Medium,8,19,Passenger Volume,Operations
+INC00858,TP015665,2026-02-28,Mechanical,Critical,3,41,Equipment,Control Room
+INC00859,TP015493,2026-07-24,Door,Low,18,57,External,Operations
+INC00860,TP000078,2026-07-02,Power,High,3,30,Passenger Volume,Security
+INC00861,TP002504,2026-04-17,Power,Low,5,13,External,Security
+INC00862,TP003226,2026-07-22,Signal,Low,5,36,Passenger Volume,Control Room
+INC00863,TP003064,2026-02-21,Weather,Low,5,19,Passenger Volume,Operations
+INC00864,TP017977,2026-06-26,Weather,Medium,18,49,Infrastructure,Maintenance
+INC00865,TP011688,2026-01-24,Track,Critical,5,38,Operations,Maintenance
+INC00866,TP001638,2026-05-04,Signal,Low,12,32,Passenger Volume,Security
+INC00867,TP014206,2026-01-26,Weather,High,5,32,Operations,Control Room
+INC00868,TP013696,2026-05-10,Crowding,Critical,3,10,Passenger Volume,Maintenance
+INC00869,TP003380,2026-02-09,Weather,Low,12,49,External,Operations
+INC00870,TP003958,2026-07-26,Mechanical,Low,3,18,External,Maintenance
+INC00871,TP003996,2026-03-10,Crowding,Low,8,21,Operations,Security
+INC00872,TP015446,2026-04-04,Weather,Medium,3,8,External,Maintenance
+INC00873,TP006528,2026-06-09,Power,Low,3,8,Operations,Operations
+INC00874,TP006050,2026-03-21,Weather,Low,70,80,Infrastructure,Maintenance
+INC00875,TP017458,2026-01-26,Weather,Medium,18,25,Equipment,Control Room
+INC00876,TP009945,2026-06-24,Signal,Low,18,27,External,Security
+INC00877,TP009252,2026-03-18,Signal,Low,3,18,Equipment,Maintenance
+INC00878,TP008342,2026-02-10,Mechanical,Medium,70,96,External,Operations
+INC00879,TP011244,2026-05-17,Track,Low,25,42,Equipment,Maintenance
+INC00880,TP011734,2026-01-24,Track,Medium,12,34,Passenger Volume,Security
+INC00881,TP003736,2026-05-21,Weather,Low,12,45,Equipment,Security
+INC00882,TP016329,2026-08-13,Weather,Medium,8,16,Operations,Operations
+INC00883,TP012561,2026-02-05,Mechanical,Medium,12,51,Equipment,Operations
+INC00884,TP008920,2026-02-27,Door,Medium,3,26,Operations,Control Room
+INC00885,TP014376,2026-01-01,Power,Low,18,40,Equipment,Operations
+INC00886,TP010401,2026-01-25,Mechanical,Medium,25,45,Equipment,Security
+INC00887,TP017583,2026-06-17,Signal,Low,5,31,Passenger Volume,Operations
+INC00888,TP009662,2026-07-21,Mechanical,Low,3,32,Operations,Maintenance
+INC00889,TP013707,2026-03-20,Signal,Critical,12,15,External,Operations
+INC00890,TP004793,2026-02-07,Crowding,High,5,40,Equipment,Security
+INC00891,TP002124,2026-02-14,Door,Low,8,36,Passenger Volume,Control Room
+INC00892,TP012769,2026-06-03,Door,High,8,42,Infrastructure,Operations
+INC00893,TP013735,2026-02-25,Crowding,Medium,8,30,External,Control Room
+INC00894,TP011470,2026-07-07,Crowding,Critical,18,50,Infrastructure,Operations
+INC00895,TP010323,2026-01-07,Door,Medium,18,47,Infrastructure,Operations
+INC00896,TP014464,2026-04-13,Weather,Low,35,69,External,Security
+INC00897,TP004184,2026-06-01,Crowding,Medium,12,37,Operations,Control Room
+INC00898,TP000839,2026-05-19,Medical,Low,5,34,Equipment,Operations
+INC00899,TP018330,2026-08-28,Signal,Medium,3,37,Equipment,Control Room
+INC00900,TP000856,2026-06-12,Weather,Medium,3,20,External,Maintenance
+INC00901,TP016509,2026-06-07,Track,Low,12,45,External,Maintenance
+INC00902,TP010002,2026-02-15,Crowding,Low,18,27,Passenger Volume,Maintenance
+INC00903,TP012712,2026-01-27,Door,Medium,18,44,Infrastructure,Operations
+INC00904,TP002068,2026-03-17,Signal,Medium,5,23,Operations,Security
+INC00905,TP009559,2026-07-28,Signal,Low,18,24,Passenger Volume,Operations
+INC00906,TP013025,2026-01-29,Mechanical,Low,3,14,External,Operations
+INC00907,TP013992,2026-01-06,Power,Low,12,22,Operations,Security
+INC00908,TP019085,2026-01-21,Mechanical,High,5,27,External,Operations
+INC00909,TP015771,2026-04-11,Mechanical,Low,25,49,Equipment,Operations
+INC00910,TP012456,2026-01-29,Weather,Medium,18,26,Passenger Volume,Control Room
+INC00911,TP001431,2026-03-30,Mechanical,Medium,3,31,Operations,Operations
+INC00912,TP019717,2026-06-15,Weather,Low,35,60,Operations,Security
+INC00913,TP019119,2026-01-22,Medical,Low,5,38,External,Security
+INC00914,TP006279,2026-06-08,Track,Medium,18,35,Operations,Control Room
+INC00915,TP012955,2026-06-14,Signal,High,35,56,Passenger Volume,Security
+INC00916,TP018465,2026-04-30,Mechanical,High,5,32,Passenger Volume,Security
+INC00917,TP010220,2026-08-05,Power,Medium,50,61,Equipment,Security
+INC00918,TP011722,2026-03-23,Crowding,Low,12,42,Operations,Maintenance
+INC00919,TP014162,2026-03-10,Track,High,35,38,External,Operations
+INC00920,TP004224,2026-01-24,Crowding,Medium,18,32,External,Operations
+INC00921,TP005113,2026-07-23,Door,High,5,27,Operations,Maintenance
+INC00922,TP015562,2026-07-29,Power,Low,5,42,External,Operations
+INC00923,TP008471,2026-04-04,Signal,Critical,35,38,External,Security
+INC00924,TP000117,2026-02-15,Signal,Low,3,39,Equipment,Operations
+INC00925,TP000457,2026-08-02,Medical,Low,8,32,Equipment,Maintenance
+INC00926,TP013821,2026-06-21,Door,Low,5,36,External,Control Room
+INC00927,TP001209,2026-03-05,Power,Medium,12,15,Operations,Maintenance
+INC00928,TP002943,2026-03-17,Medical,Low,5,22,Infrastructure,Operations
+INC00929,TP012394,2026-06-08,Signal,Low,18,55,External,Control Room
+INC00930,TP003388,2026-07-26,Weather,High,25,49,Operations,Maintenance
+INC00931,TP015107,2026-08-25,Mechanical,Low,5,26,Passenger Volume,Control Room
+INC00932,TP007059,2026-07-18,Door,High,50,55,External,Operations
+INC00933,TP000446,2026-01-03,Mechanical,Medium,3,6,External,Operations
+INC00934,TP012354,2026-07-22,Power,Medium,5,22,Infrastructure,Security
+INC00935,TP004978,2026-05-16,Mechanical,Low,8,19,Equipment,Control Room
+INC00936,TP006945,2026-08-11,Door,High,5,40,Operations,Operations
+INC00937,TP019449,2026-02-01,Track,Low,5,20,External,Operations
+INC00938,TP004467,2026-07-14,Crowding,Medium,50,87,Equipment,Maintenance
+INC00939,TP012160,2026-01-29,Power,Low,35,71,Infrastructure,Maintenance
+INC00940,TP013115,2026-02-26,Mechanical,Medium,5,32,Equipment,Control Room
+INC00941,TP010446,2026-06-01,Mechanical,Medium,25,27,Equipment,Control Room
+INC00942,TP016561,2026-08-21,Power,High,3,25,External,Operations
+INC00943,TP009800,2026-02-14,Crowding,Low,12,16,Passenger Volume,Maintenance
+INC00944,TP000968,2026-06-21,Weather,Medium,3,9,Passenger Volume,Control Room
+INC00945,TP011397,2026-02-25,Mechanical,Critical,18,52,Infrastructure,Security
+INC00946,TP017266,2026-04-05,Signal,Medium,3,18,Passenger Volume,Control Room
+INC00947,TP019630,2026-08-28,Weather,High,3,5,Infrastructure,Operations
+INC00948,TP010673,2026-07-02,Track,Low,8,32,Equipment,Maintenance
+INC00949,TP017427,2026-07-18,Crowding,High,3,5,Operations,Security
+INC00950,TP013030,2026-03-12,Signal,Medium,12,50,Operations,Security
+INC00951,TP005701,2026-01-20,Power,Medium,12,16,Operations,Security
+INC00952,TP006390,2026-08-16,Crowding,Medium,12,37,Passenger Volume,Maintenance
+INC00953,TP008398,2026-06-06,Door,High,12,17,Operations,Control Room
+INC00954,TP019555,2026-01-18,Weather,High,12,43,Infrastructure,Control Room
+INC00955,TP006079,2026-07-17,Mechanical,Medium,12,39,Infrastructure,Operations
+INC00956,TP002195,2026-06-15,Door,Low,70,93,Equipment,Operations
+INC00957,TP003422,2026-03-07,Mechanical,Low,70,83,Equipment,Security
+INC00958,TP015232,2026-02-19,Medical,High,3,17,Passenger Volume,Security
+INC00959,TP014852,2026-01-13,Mechanical,Low,5,23,Infrastructure,Maintenance
+INC00960,TP006619,2026-06-11,Power,Low,18,38,Equipment,Maintenance
+INC00961,TP004064,2026-07-08,Door,Low,3,22,Infrastructure,Control Room
+INC00962,TP008854,2026-08-12,Signal,High,50,71,Equipment,Control Room
+INC00963,TP014036,2026-08-01,Mechanical,High,8,14,Equipment,Security
+INC00964,TP012008,2026-07-15,Track,Medium,35,71,Infrastructure,Maintenance
+INC00965,TP011628,2026-01-14,Medical,Low,8,43,Infrastructure,Security
+INC00966,TP010910,2026-03-24,Power,Low,25,39,External,Control Room
+INC00967,TP017178,2026-06-08,Power,Low,70,105,Passenger Volume,Operations
+INC00968,TP010798,2026-07-20,Track,Critical,35,51,External,Operations
+INC00969,TP002780,2026-03-23,Crowding,Medium,12,42,External,Operations
+INC00970,TP007027,2026-05-09,Power,Critical,50,63,Equipment,Operations
+INC00971,TP018992,2026-07-18,Mechanical,High,5,39,External,Maintenance
+INC00972,TP017319,2026-01-14,Crowding,Low,8,47,Passenger Volume,Maintenance
+INC00973,TP012985,2026-05-14,Crowding,Medium,18,29,Operations,Maintenance
+INC00974,TP018556,2026-05-25,Mechanical,Medium,18,53,External,Maintenance
+INC00975,TP007992,2026-08-12,Door,Medium,5,33,Infrastructure,Maintenance
+INC00976,TP000904,2026-05-24,Mechanical,Low,5,41,Operations,Security
+INC00977,TP012054,2026-05-27,Weather,Low,5,30,Operations,Operations
+INC00978,TP012683,2026-02-24,Signal,High,12,31,Passenger Volume,Control Room
+INC00979,TP004927,2026-08-16,Mechanical,High,18,49,External,Maintenance
+INC00980,TP010916,2026-04-20,Door,Medium,12,50,Infrastructure,Control Room
+INC00981,TP006875,2026-06-25,Track,Medium,5,12,Passenger Volume,Operations
+INC00982,TP006618,2026-06-13,Signal,Low,25,63,External,Maintenance
+INC00983,TP007708,2026-08-02,Track,High,5,17,Passenger Volume,Maintenance
+INC00984,TP015561,2026-03-04,Medical,High,8,22,Operations,Control Room
+INC00985,TP019895,2026-03-20,Track,High,3,39,Infrastructure,Security
+INC00986,TP016203,2026-05-01,Door,Low,8,40,Equipment,Maintenance
+INC00987,TP010589,2026-06-02,Mechanical,Low,5,23,Passenger Volume,Security
+INC00988,TP007587,2026-08-12,Signal,Low,8,18,Equipment,Operations
+INC00989,TP001149,2026-01-22,Power,Low,12,50,Passenger Volume,Control Room
+INC00990,TP011644,2026-07-09,Power,High,3,23,Equipment,Control Room
+INC00991,TP007905,2026-07-03,Crowding,Low,3,30,Operations,Control Room
+INC00992,TP004141,2026-06-12,Power,High,8,39,Passenger Volume,Operations
+INC00993,TP019442,2026-05-01,Medical,High,25,31,External,Maintenance
+INC00994,TP015698,2026-07-24,Track,Low,25,27,External,Control Room
+INC00995,TP007434,2026-05-10,Signal,High,5,14,Passenger Volume,Maintenance
+INC00996,TP007043,2026-01-02,Door,Critical,5,24,External,Security
+INC00997,TP016885,2026-07-08,Door,Medium,8,40,Equipment,Maintenance
+INC00998,TP008858,2026-05-16,Crowding,Low,70,99,Infrastructure,Control Room
+INC00999,TP013995,2026-04-08,Track,High,12,31,Operations,Security
+INC01000,TP017840,2026-04-21,Mechanical,Low,18,43,Infrastructure,Security
+INC01001,TP015509,2026-01-04,Power,Low,3,14,Passenger Volume,Maintenance
+INC01002,TP014687,2026-03-15,Track,High,8,20,External,Operations
+INC01003,TP012074,2026-05-13,Track,Low,50,61,Operations,Security
+INC01004,TP005923,2026-06-07,Track,Low,8,41,Equipment,Maintenance
+INC01005,TP006432,2026-02-23,Crowding,High,35,44,External,Security
+INC01006,TP005867,2026-05-13,Track,High,3,12,Operations,Security
+INC01007,TP000230,2026-02-08,Power,Medium,12,25,Passenger Volume,Control Room
+INC01008,TP019491,2026-04-26,Crowding,Critical,25,49,Infrastructure,Control Room
+INC01009,TP016112,2026-08-07,Signal,Medium,3,28,Infrastructure,Security
+INC01010,TP013810,2026-03-28,Weather,Low,25,56,Passenger Volume,Security
+INC01011,TP006349,2026-02-10,Track,Medium,35,56,Equipment,Control Room
+INC01012,TP013405,2026-04-01,Weather,Low,3,9,Equipment,Maintenance
+INC01013,TP010101,2026-02-08,Mechanical,Medium,3,17,Infrastructure,Operations
+INC01014,TP008735,2026-01-14,Track,Low,5,37,Infrastructure,Control Room
+INC01015,TP014289,2026-02-07,Mechanical,High,3,42,External,Maintenance
+INC01016,TP005401,2026-08-14,Crowding,Medium,25,28,Equipment,Control Room
+INC01017,TP004763,2026-08-01,Weather,Medium,18,32,Operations,Operations
+INC01018,TP001657,2026-01-25,Mechanical,Low,12,44,Operations,Control Room
+INC01019,TP006533,2026-07-29,Track,Low,8,32,Passenger Volume,Control Room
+INC01020,TP019101,2026-01-17,Signal,Medium,8,29,External,Operations
+INC01021,TP012121,2026-01-31,Signal,Medium,3,18,Infrastructure,Operations
+INC01022,TP000439,2026-04-21,Crowding,Low,8,25,Passenger Volume,Operations
+INC01023,TP008213,2026-02-18,Mechanical,Low,12,29,Passenger Volume,Control Room
+INC01024,TP016175,2026-03-12,Track,Low,5,22,Infrastructure,Maintenance
+INC01025,TP003774,2026-04-25,Weather,High,3,5,External,Control Room
+INC01026,TP019965,2026-02-03,Track,High,5,16,Infrastructure,Control Room
+INC01027,TP001467,2026-04-10,Track,Medium,70,74,External,Control Room
+INC01028,TP002739,2026-04-26,Crowding,Medium,50,81,Equipment,Maintenance
+INC01029,TP000427,2026-02-09,Weather,High,12,25,Infrastructure,Operations
+INC01030,TP018080,2026-05-26,Mechanical,Low,12,30,External,Control Room
+INC01031,TP010906,2026-04-24,Crowding,Low,3,24,Equipment,Maintenance
+INC01032,TP017852,2026-01-07,Medical,Medium,3,8,Passenger Volume,Security
+INC01033,TP004686,2026-05-18,Door,Critical,25,27,Infrastructure,Maintenance
+INC01034,TP008281,2026-06-20,Power,Low,5,38,External,Maintenance
+INC01035,TP012377,2026-01-11,Mechanical,Low,3,23,Infrastructure,Maintenance
+INC01036,TP004051,2026-01-13,Power,Medium,3,21,Passenger Volume,Control Room
+INC01037,TP009264,2026-08-17,Door,High,12,14,Passenger Volume,Operations
+INC01038,TP015987,2026-02-04,Door,High,18,20,Equipment,Security
+INC01039,TP009458,2026-08-01,Door,Low,3,32,Passenger Volume,Operations
+INC01040,TP013664,2026-08-17,Track,High,5,43,External,Control Room
+INC01041,TP005383,2026-04-14,Weather,Medium,25,37,Passenger Volume,Operations
+INC01042,TP000983,2026-07-10,Medical,Low,12,47,Infrastructure,Maintenance
+INC01043,TP003450,2026-08-24,Medical,Medium,3,5,Equipment,Maintenance
+INC01044,TP000374,2026-05-06,Crowding,High,3,35,Operations,Security
+INC01045,TP014062,2026-06-30,Power,Medium,3,27,Operations,Control Room
+INC01046,TP013148,2026-04-05,Weather,Low,3,8,Operations,Control Room
+INC01047,TP002977,2026-05-24,Medical,Low,18,29,Operations,Control Room
+INC01048,TP007523,2026-01-15,Medical,High,70,101,Equipment,Maintenance
+INC01049,TP019662,2026-07-17,Door,Critical,8,22,External,Control Room
+INC01050,TP004822,2026-04-02,Door,Low,18,55,Equipment,Maintenance
+INC01051,TP001152,2026-08-08,Mechanical,High,5,19,External,Operations
+INC01052,TP010022,2026-03-21,Power,Low,8,12,Infrastructure,Operations
+INC01053,TP011242,2026-08-21,Signal,Low,3,10,Infrastructure,Maintenance
+INC01054,TP009284,2026-03-25,Track,Critical,18,55,Equipment,Operations
+INC01055,TP003236,2026-04-25,Weather,High,3,12,Passenger Volume,Security
+INC01056,TP010363,2026-07-10,Mechanical,Low,5,26,Equipment,Operations
+INC01057,TP016802,2026-06-25,Door,Low,8,11,External,Security
+INC01058,TP009628,2026-03-27,Track,Low,25,59,Operations,Control Room
+INC01059,TP005157,2026-06-23,Weather,High,50,84,Infrastructure,Security
+INC01060,TP000710,2026-08-14,Door,Low,12,15,Infrastructure,Control Room
+INC01061,TP012398,2026-06-01,Door,Low,12,30,Operations,Control Room
+INC01062,TP004886,2026-08-19,Medical,Low,8,45,External,Operations
+INC01063,TP002423,2026-06-15,Medical,Low,12,32,Infrastructure,Maintenance
+INC01064,TP003878,2026-07-31,Crowding,Critical,3,27,External,Control Room
+INC01065,TP005508,2026-07-20,Medical,Low,8,11,External,Maintenance
+INC01066,TP003633,2026-04-22,Medical,Medium,18,56,Operations,Security
+INC01067,TP004946,2026-01-17,Signal,Medium,3,7,Equipment,Control Room
+INC01068,TP019419,2026-05-15,Medical,Low,8,41,Equipment,Operations
+INC01069,TP019239,2026-04-20,Power,Low,8,23,Passenger Volume,Control Room
+INC01070,TP015788,2026-08-12,Door,Medium,18,51,Passenger Volume,Operations
+INC01071,TP013691,2026-05-16,Door,Low,3,32,Operations,Security
+INC01072,TP007017,2026-04-16,Track,Low,8,17,External,Security
+INC01073,TP009274,2026-03-16,Weather,Low,3,25,Equipment,Security
+INC01074,TP018968,2026-04-01,Weather,Low,18,21,Equipment,Operations
+INC01075,TP008200,2026-03-16,Medical,Critical,18,30,External,Security
+INC01076,TP002130,2026-02-06,Track,Low,50,84,Equipment,Control Room
+INC01077,TP018088,2026-08-21,Medical,Medium,5,19,External,Security
+INC01078,TP015839,2026-08-08,Track,Medium,3,33,External,Operations
+INC01079,TP000860,2026-08-19,Crowding,Low,8,20,External,Operations
+INC01080,TP004415,2026-03-29,Track,Low,3,21,Equipment,Maintenance
+INC01081,TP000484,2026-03-17,Weather,Medium,25,49,Operations,Maintenance
+INC01082,TP000933,2026-07-12,Power,Medium,3,32,Operations,Maintenance
+INC01083,TP019524,2026-05-16,Signal,Critical,8,40,Passenger Volume,Security
+INC01084,TP003170,2026-01-22,Medical,Low,3,33,Equipment,Operations
+INC01085,TP016802,2026-01-13,Mechanical,Low,5,31,Infrastructure,Control Room
+INC01086,TP017440,2026-07-02,Mechanical,Medium,12,14,Equipment,Maintenance
+INC01087,TP007792,2026-05-13,Mechanical,Low,3,14,Equipment,Operations
+INC01088,TP014062,2026-01-16,Mechanical,High,70,94,Operations,Security
+INC01089,TP014735,2026-07-18,Medical,Low,5,24,Infrastructure,Control Room
+INC01090,TP010670,2026-03-08,Weather,Low,12,48,Equipment,Security
+INC01091,TP018962,2026-01-23,Mechanical,Medium,5,29,Infrastructure,Operations
+INC01092,TP013481,2026-04-06,Weather,Critical,5,43,Infrastructure,Security
+INC01093,TP012631,2026-08-07,Weather,Medium,35,47,Infrastructure,Maintenance
+INC01094,TP015687,2026-06-17,Weather,Low,25,28,External,Operations
+INC01095,TP014089,2026-06-22,Track,High,35,56,External,Security
+INC01096,TP009882,2026-06-21,Weather,Low,8,23,Equipment,Security
+INC01097,TP003539,2026-06-18,Signal,Low,5,28,Passenger Volume,Operations
+INC01098,TP004267,2026-04-26,Signal,High,5,43,External,Maintenance
+INC01099,TP003128,2026-02-10,Crowding,Low,25,39,Equipment,Operations
+INC01100,TP016089,2026-07-13,Crowding,Low,8,28,Operations,Operations
+INC01101,TP018304,2026-04-13,Medical,Low,18,25,External,Security
+INC01102,TP007399,2026-02-20,Door,Low,25,48,Equipment,Control Room
+INC01103,TP009820,2026-01-20,Medical,High,3,32,Equipment,Maintenance
+INC01104,TP016401,2026-05-04,Signal,High,12,38,Infrastructure,Security
+INC01105,TP006709,2026-08-08,Door,Medium,35,41,Passenger Volume,Security
+INC01106,TP005635,2026-08-25,Track,High,50,52,External,Maintenance
+INC01107,TP019542,2026-01-11,Power,High,25,43,Equipment,Control Room
+INC01108,TP018688,2026-04-13,Track,Medium,3,35,Infrastructure,Security
+INC01109,TP015139,2026-01-12,Signal,High,12,30,Operations,Operations
+INC01110,TP013565,2026-02-28,Power,Low,50,65,Infrastructure,Control Room
+INC01111,TP013122,2026-04-20,Power,Low,12,28,Operations,Security
+INC01112,TP008152,2026-08-07,Signal,Medium,25,49,Passenger Volume,Control Room
+INC01113,TP001411,2026-03-17,Door,Low,25,35,External,Maintenance
+INC01114,TP001334,2026-01-26,Door,High,5,12,Equipment,Operations
+INC01115,TP008382,2026-04-28,Crowding,Low,5,37,External,Maintenance
+INC01116,TP013687,2026-05-27,Door,Low,3,25,Passenger Volume,Operations
+INC01117,TP013159,2026-07-19,Door,Low,70,93,Operations,Control Room
+INC01118,TP007192,2026-02-19,Weather,Low,12,40,External,Control Room
+INC01119,TP005102,2026-03-15,Signal,Low,12,49,Operations,Maintenance
+INC01120,TP017207,2026-06-24,Medical,Medium,5,19,Passenger Volume,Operations
+INC01121,TP018709,2026-07-11,Weather,Low,12,21,Operations,Operations
+INC01122,TP004756,2026-04-04,Weather,Low,5,8,External,Maintenance
+INC01123,TP002019,2026-04-26,Medical,Low,5,15,Passenger Volume,Security
+INC01124,TP004226,2026-04-25,Mechanical,Low,5,28,Infrastructure,Operations
+INC01125,TP004305,2026-05-29,Track,High,18,27,External,Maintenance
+INC01126,TP012215,2026-04-09,Power,Low,25,60,Infrastructure,Maintenance
+INC01127,TP000843,2026-01-13,Power,Medium,3,33,Operations,Control Room
+INC01128,TP017288,2026-03-03,Door,Low,8,42,Operations,Security
+INC01129,TP000295,2026-06-27,Medical,Medium,5,14,Operations,Control Room
+INC01130,TP009492,2026-06-17,Track,Medium,5,20,External,Operations
+INC01131,TP009004,2026-08-10,Mechanical,High,25,52,Passenger Volume,Security
+INC01132,TP009292,2026-01-09,Track,Medium,12,23,Equipment,Operations
+INC01133,TP015051,2026-06-09,Medical,Low,12,30,Operations,Control Room
+INC01134,TP019094,2026-04-23,Mechanical,Low,5,23,External,Maintenance
+INC01135,TP004850,2026-03-08,Signal,High,12,24,Infrastructure,Maintenance
+INC01136,TP012827,2026-07-26,Weather,Medium,5,40,Equipment,Security
+INC01137,TP000850,2026-04-28,Weather,High,12,49,Passenger Volume,Operations
+INC01138,TP018729,2026-06-22,Medical,High,3,29,External,Maintenance
+INC01139,TP001786,2026-03-21,Weather,High,18,46,Equipment,Maintenance
+INC01140,TP007249,2026-07-13,Track,Low,18,22,Infrastructure,Operations
+INC01141,TP007631,2026-04-08,Track,Low,18,52,Passenger Volume,Control Room
+INC01142,TP014165,2026-01-13,Door,High,8,44,Passenger Volume,Maintenance
+INC01143,TP013376,2026-07-22,Medical,Low,50,88,Operations,Maintenance
+INC01144,TP017307,2026-07-11,Weather,Critical,3,7,Infrastructure,Security
+INC01145,TP016811,2026-08-27,Medical,Low,50,87,External,Maintenance
+INC01146,TP010441,2026-04-23,Door,Low,12,49,Operations,Operations
+INC01147,TP011834,2026-07-03,Mechanical,High,5,44,Passenger Volume,Operations
+INC01148,TP001376,2026-04-16,Weather,Medium,8,26,Infrastructure,Operations
+INC01149,TP008698,2026-05-13,Crowding,Medium,18,41,Passenger Volume,Control Room
+INC01150,TP000631,2026-08-05,Weather,Low,12,15,External,Maintenance
+INC01151,TP018840,2026-08-28,Track,Low,3,23,Passenger Volume,Control Room
+INC01152,TP011691,2026-05-13,Power,Critical,3,38,Infrastructure,Maintenance
+INC01153,TP010811,2026-04-13,Crowding,Medium,8,13,Equipment,Control Room
+INC01154,TP008752,2026-07-30,Crowding,Low,18,33,Operations,Control Room
+INC01155,TP018405,2026-03-22,Weather,Low,25,52,Equipment,Control Room
+INC01156,TP014025,2026-04-23,Signal,High,12,45,Passenger Volume,Operations
+INC01157,TP014135,2026-05-22,Mechanical,Low,5,23,Infrastructure,Maintenance
+INC01158,TP004269,2026-08-28,Door,Low,8,38,Operations,Security
+INC01159,TP001395,2026-04-28,Mechanical,Medium,18,43,External,Security
+INC01160,TP008040,2026-04-13,Weather,High,35,67,Equipment,Maintenance
+INC01161,TP004161,2026-02-27,Signal,Low,5,41,Equipment,Security
+INC01162,TP001449,2026-06-21,Weather,Medium,8,24,Infrastructure,Operations
+INC01163,TP005928,2026-08-02,Weather,Low,18,27,Passenger Volume,Maintenance
+INC01164,TP004499,2026-03-12,Power,Critical,8,47,External,Operations
+INC01165,TP014999,2026-07-24,Mechanical,Medium,18,50,Infrastructure,Security
+INC01166,TP003999,2026-08-22,Mechanical,Medium,8,38,Operations,Security
+INC01167,TP018318,2026-04-11,Crowding,Medium,70,84,Passenger Volume,Operations
+INC01168,TP014112,2026-03-17,Signal,Low,5,27,Operations,Maintenance
+INC01169,TP018031,2026-01-27,Mechanical,Low,5,36,External,Maintenance
+INC01170,TP011376,2026-06-14,Weather,High,12,34,Equipment,Maintenance
+INC01171,TP011500,2026-05-17,Medical,Medium,50,79,External,Operations
+INC01172,TP007192,2026-01-02,Medical,Medium,3,22,Passenger Volume,Security
+INC01173,TP014323,2026-08-12,Power,Low,12,24,Infrastructure,Maintenance
+INC01174,TP010032,2026-01-14,Medical,High,8,26,Equipment,Control Room
+INC01175,TP016285,2026-05-03,Crowding,Low,25,40,Equipment,Maintenance
+INC01176,TP005066,2026-08-11,Mechanical,Medium,18,23,External,Control Room
+INC01177,TP006911,2026-08-26,Track,Medium,35,68,Operations,Security
+INC01178,TP017315,2026-05-16,Medical,Low,50,52,Infrastructure,Control Room
+INC01179,TP016068,2026-08-23,Medical,Low,8,32,Infrastructure,Control Room
+INC01180,TP010940,2026-02-05,Door,Low,18,29,External,Security
+INC01181,TP011048,2026-07-17,Mechanical,Low,8,24,Passenger Volume,Control Room
+INC01182,TP003175,2026-03-03,Medical,Low,5,20,External,Maintenance
+INC01183,TP010610,2026-02-03,Signal,Low,5,14,Operations,Maintenance
+INC01184,TP005531,2026-08-07,Mechanical,Medium,3,33,Passenger Volume,Maintenance
+INC01185,TP002178,2026-08-10,Door,Medium,3,35,Equipment,Maintenance
+INC01186,TP003263,2026-04-23,Crowding,Low,3,21,Infrastructure,Maintenance
+INC01187,TP017284,2026-03-31,Mechanical,Low,12,40,Passenger Volume,Security
+INC01188,TP004075,2026-04-10,Weather,Critical,5,17,Infrastructure,Operations
+INC01189,TP006439,2026-01-17,Mechanical,Low,25,60,Infrastructure,Operations
+INC01190,TP012946,2026-01-18,Door,High,12,27,Operations,Control Room
+INC01191,TP008671,2026-06-29,Weather,Low,3,22,Equipment,Operations
+INC01192,TP013948,2026-06-23,Crowding,High,25,34,Infrastructure,Maintenance
+INC01193,TP013502,2026-08-22,Signal,Low,3,12,External,Maintenance
+INC01194,TP014002,2026-04-20,Track,Low,8,38,Passenger Volume,Operations
+INC01195,TP007073,2026-08-19,Crowding,Low,8,21,External,Operations
+INC01196,TP003605,2026-06-12,Signal,Low,5,12,Infrastructure,Security
+INC01197,TP012253,2026-04-27,Door,Medium,3,30,External,Operations
+INC01198,TP002861,2026-01-25,Track,Low,8,35,Infrastructure,Maintenance
+INC01199,TP005292,2026-06-06,Signal,Medium,5,11,Operations,Security
+INC01200,TP004276,2026-04-01,Mechanical,High,3,39,Passenger Volume,Maintenance
+INC01201,TP007710,2026-03-27,Medical,Low,18,33,Equipment,Control Room
+INC01202,TP018321,2026-05-02,Crowding,Medium,12,17,Infrastructure,Control Room
+INC01203,TP005272,2026-08-13,Weather,Medium,5,23,Equipment,Control Room
+INC01204,TP009239,2026-08-16,Crowding,Medium,25,36,Equipment,Operations
+INC01205,TP019612,2026-03-10,Weather,Low,5,27,Equipment,Control Room
+INC01206,TP007567,2026-06-09,Mechanical,Medium,12,31,Operations,Security
+INC01207,TP015335,2026-08-10,Medical,High,5,27,External,Control Room
+INC01208,TP014046,2026-06-24,Signal,Low,12,25,External,Control Room
+INC01209,TP007154,2026-05-09,Medical,High,5,26,Equipment,Maintenance
+INC01210,TP018581,2026-04-23,Door,Medium,5,44,Infrastructure,Operations
+INC01211,TP014355,2026-02-23,Signal,Low,35,74,Operations,Maintenance
+INC01212,TP001488,2026-03-27,Medical,Low,8,42,Infrastructure,Operations
+INC01213,TP016406,2026-02-10,Track,Low,12,20,Equipment,Maintenance
+INC01214,TP003154,2026-06-28,Weather,Low,8,37,Operations,Operations
+INC01215,TP000379,2026-02-13,Door,Medium,8,29,Equipment,Security
+INC01216,TP001374,2026-04-21,Medical,Low,12,26,Operations,Operations
+INC01217,TP016445,2026-04-14,Power,Low,35,70,Operations,Operations
+INC01218,TP004901,2026-08-11,Door,Low,50,84,Operations,Security
+INC01219,TP015546,2026-04-02,Mechanical,Medium,12,22,Operations,Security
+INC01220,TP013344,2026-04-13,Power,Medium,12,30,Equipment,Security
+INC01221,TP007570,2026-02-08,Power,High,5,26,Infrastructure,Security
+INC01222,TP015226,2026-06-03,Signal,High,8,12,Operations,Control Room
+INC01223,TP000860,2026-07-09,Weather,Critical,18,47,Equipment,Maintenance
+INC01224,TP003686,2026-06-14,Weather,Low,5,22,External,Operations
+INC01225,TP019364,2026-08-22,Mechanical,Low,5,12,Infrastructure,Control Room
+INC01226,TP000782,2026-05-28,Track,Low,12,30,Passenger Volume,Maintenance
+INC01227,TP009306,2026-07-04,Track,High,3,16,Equipment,Maintenance
+INC01228,TP015540,2026-03-13,Weather,Critical,8,12,External,Control Room
+INC01229,TP004949,2026-08-07,Power,Medium,5,39,Infrastructure,Control Room
+INC01230,TP016476,2026-04-13,Crowding,Low,35,67,External,Operations
+INC01231,TP006904,2026-05-21,Mechanical,Low,12,20,Infrastructure,Control Room
+INC01232,TP000463,2026-03-10,Power,Low,18,46,Infrastructure,Maintenance
+INC01233,TP007347,2026-01-14,Mechanical,Low,8,46,Passenger Volume,Maintenance
+INC01234,TP002533,2026-07-05,Power,High,18,53,External,Maintenance
+INC01235,TP012695,2026-03-12,Track,Low,5,18,Infrastructure,Control Room
+INC01236,TP009159,2026-08-08,Track,High,3,9,Operations,Maintenance
+INC01237,TP000309,2026-03-08,Signal,Low,18,29,Passenger Volume,Maintenance
+INC01238,TP010701,2026-08-09,Track,Medium,8,18,External,Control Room
+INC01239,TP008463,2026-03-02,Track,Medium,12,32,Passenger Volume,Security
+INC01240,TP009969,2026-03-30,Signal,Low,18,27,Infrastructure,Maintenance
+INC01241,TP007695,2026-01-13,Door,Low,3,10,Infrastructure,Control Room
+INC01242,TP019133,2026-04-24,Power,Medium,18,22,Equipment,Security
+INC01243,TP016133,2026-01-27,Track,Low,5,40,Operations,Maintenance
+INC01244,TP019234,2026-07-28,Mechanical,Low,3,7,Operations,Control Room
+INC01245,TP002315,2026-04-23,Mechanical,Low,3,10,Passenger Volume,Control Room
+INC01246,TP002800,2026-08-09,Signal,Low,8,47,Equipment,Maintenance
+INC01247,TP004782,2026-06-18,Signal,Low,5,33,External,Operations
+INC01248,TP016093,2026-02-04,Door,Low,5,32,Equipment,Operations
+INC01249,TP017238,2026-05-30,Track,Low,35,74,Passenger Volume,Security
+INC01250,TP007391,2026-08-22,Power,High,12,49,Equipment,Control Room
+INC01251,TP000992,2026-05-20,Power,Medium,35,42,Passenger Volume,Operations
+INC01252,TP011540,2026-08-04,Signal,Medium,18,44,External,Maintenance
+INC01253,TP017988,2026-03-19,Track,High,35,41,Infrastructure,Control Room
+INC01254,TP016394,2026-06-13,Medical,Critical,5,19,Infrastructure,Operations
+INC01255,TP016674,2026-01-12,Power,Medium,5,32,Infrastructure,Security
+INC01256,TP003039,2026-05-13,Track,Low,5,32,Operations,Maintenance
+INC01257,TP000935,2026-03-23,Weather,High,25,52,Infrastructure,Security
+INC01258,TP001069,2026-07-19,Weather,High,8,22,External,Security
+INC01259,TP001582,2026-03-02,Power,Low,3,12,External,Control Room
+INC01260,TP015413,2026-05-10,Medical,Medium,50,55,Infrastructure,Security
+INC01261,TP005981,2026-03-15,Track,Low,18,27,Passenger Volume,Operations
+INC01262,TP013314,2026-03-05,Weather,Low,70,97,External,Operations
+INC01263,TP018844,2026-03-28,Crowding,Medium,3,36,Infrastructure,Control Room
+INC01264,TP004288,2026-05-20,Crowding,Low,18,52,Passenger Volume,Operations
+INC01265,TP002656,2026-04-13,Mechanical,Low,3,22,Operations,Control Room
+INC01266,TP016938,2026-04-11,Signal,Low,3,32,Operations,Maintenance
+INC01267,TP015758,2026-08-07,Weather,Medium,3,28,Infrastructure,Security
+INC01268,TP016445,2026-03-15,Medical,Medium,18,22,External,Operations
+INC01269,TP019351,2026-05-07,Signal,Low,5,12,Infrastructure,Operations
+INC01270,TP000543,2026-04-17,Mechanical,Low,8,18,Operations,Control Room
+INC01271,TP015638,2026-08-05,Medical,Critical,12,46,External,Operations
+INC01272,TP014972,2026-04-11,Door,High,50,82,External,Operations
+INC01273,TP001495,2026-05-30,Weather,Low,5,41,Passenger Volume,Security
+INC01274,TP005803,2026-07-03,Power,Low,12,24,Passenger Volume,Operations
+INC01275,TP018474,2026-05-27,Crowding,Low,35,38,Operations,Control Room
+INC01276,TP000067,2026-04-05,Signal,Medium,3,14,Passenger Volume,Control Room
+INC01277,TP010379,2026-07-16,Track,Low,3,13,Operations,Maintenance
+INC01278,TP004253,2026-01-21,Weather,Low,3,42,Equipment,Maintenance
+INC01279,TP000215,2026-06-21,Medical,High,8,21,Passenger Volume,Control Room
+INC01280,TP013202,2026-01-07,Medical,Low,70,98,Infrastructure,Security
+INC01281,TP006509,2026-08-16,Weather,Medium,8,25,Passenger Volume,Control Room
+INC01282,TP016385,2026-04-09,Crowding,High,8,31,Equipment,Maintenance
+INC01283,TP011404,2026-06-08,Medical,High,12,14,Passenger Volume,Control Room
+INC01284,TP001520,2026-06-11,Signal,Low,50,75,Operations,Maintenance
+INC01285,TP016455,2026-03-30,Signal,Low,5,40,Operations,Control Room
+INC01286,TP013841,2026-03-13,Door,Low,18,30,Infrastructure,Control Room
+INC01287,TP014400,2026-05-20,Mechanical,High,8,22,Equipment,Operations
+INC01288,TP000254,2026-02-27,Medical,Low,12,26,Passenger Volume,Operations
+INC01289,TP007088,2026-06-10,Crowding,Low,25,49,Operations,Control Room
+INC01290,TP007349,2026-06-01,Door,High,12,51,External,Operations
+INC01291,TP015756,2026-05-25,Door,Medium,3,21,Passenger Volume,Maintenance
+INC01292,TP011250,2026-04-30,Crowding,Low,5,26,External,Operations
+INC01293,TP008507,2026-05-30,Mechanical,Medium,3,32,Passenger Volume,Operations
+INC01294,TP006837,2026-07-17,Power,Low,12,21,External,Maintenance
+INC01295,TP000772,2026-05-02,Medical,Medium,25,33,Equipment,Operations
+INC01296,TP009528,2026-08-15,Medical,Low,18,33,Operations,Maintenance
+INC01297,TP014141,2026-08-07,Weather,Medium,5,8,Passenger Volume,Operations
+INC01298,TP002489,2026-08-20,Weather,Low,35,59,External,Maintenance
+INC01299,TP003511,2026-01-17,Medical,High,5,10,External,Operations
+INC01300,TP014982,2026-02-27,Mechanical,Low,12,25,Passenger Volume,Operations
+INC01301,TP016868,2026-06-02,Track,Medium,35,42,External,Control Room
+INC01302,TP018219,2026-02-19,Mechanical,Critical,3,32,Operations,Maintenance
+INC01303,TP011274,2026-08-15,Medical,Low,18,49,Passenger Volume,Operations
+INC01304,TP002168,2026-04-14,Crowding,Medium,25,54,External,Maintenance
+INC01305,TP002257,2026-04-10,Medical,Medium,3,25,Infrastructure,Maintenance
+INC01306,TP013283,2026-06-18,Signal,Medium,25,28,Equipment,Control Room
+INC01307,TP003661,2026-06-08,Mechanical,Medium,5,15,Operations,Operations
+INC01308,TP016623,2026-07-22,Weather,Low,18,44,Passenger Volume,Control Room
+INC01309,TP003740,2026-08-13,Crowding,Critical,3,13,Operations,Security
+INC01310,TP019056,2026-07-14,Signal,High,8,45,External,Security
+INC01311,TP017620,2026-05-25,Weather,Low,18,54,Infrastructure,Control Room
+INC01312,TP004254,2026-07-13,Signal,High,35,72,Equipment,Maintenance
+INC01313,TP002268,2026-07-27,Track,Critical,18,46,Passenger Volume,Maintenance
+INC01314,TP005827,2026-06-02,Door,Low,18,46,Equipment,Maintenance
+INC01315,TP019188,2026-01-27,Door,Low,3,25,Operations,Security
+INC01316,TP007503,2026-01-03,Mechanical,High,18,44,Passenger Volume,Maintenance
+INC01317,TP018391,2026-05-23,Door,Low,3,16,External,Security
+INC01318,TP018010,2026-05-01,Medical,Low,12,48,Passenger Volume,Maintenance
+INC01319,TP016210,2026-04-12,Mechanical,Low,3,24,Passenger Volume,Operations
+INC01320,TP014680,2026-07-11,Medical,Medium,5,23,Infrastructure,Control Room
+INC01321,TP019749,2026-02-03,Mechanical,Medium,35,65,External,Operations
+INC01322,TP011961,2026-07-22,Signal,High,35,58,Operations,Operations
+INC01323,TP018936,2026-06-03,Power,Low,25,55,Infrastructure,Maintenance
+INC01324,TP004406,2026-04-01,Signal,Medium,3,38,Equipment,Maintenance
+INC01325,TP011451,2026-08-15,Door,Critical,25,59,External,Operations
+INC01326,TP006733,2026-05-05,Track,Low,12,48,Equipment,Maintenance
+INC01327,TP001694,2026-07-13,Mechanical,Medium,3,39,External,Security
+INC01328,TP015227,2026-05-02,Medical,Medium,18,49,Operations,Operations
+INC01329,TP018623,2026-02-17,Power,Low,12,36,Passenger Volume,Maintenance
+INC01330,TP011095,2026-06-23,Weather,Low,5,27,Operations,Maintenance
+INC01331,TP003281,2026-04-10,Power,Medium,18,27,Equipment,Operations
+INC01332,TP003765,2026-01-23,Door,Medium,18,43,Equipment,Operations
+INC01333,TP009347,2026-06-05,Mechanical,Low,25,27,Operations,Operations
+INC01334,TP013813,2026-01-07,Power,Medium,3,19,Passenger Volume,Control Room
+INC01335,TP010848,2026-04-19,Medical,Low,18,57,Infrastructure,Control Room
+INC01336,TP000066,2026-01-18,Signal,High,5,36,Passenger Volume,Security
+INC01337,TP008759,2026-04-18,Medical,Medium,70,77,Equipment,Security
+INC01338,TP017989,2026-01-28,Power,Critical,3,20,Operations,Control Room
+INC01339,TP007612,2026-06-29,Weather,Critical,8,10,Infrastructure,Security
+INC01340,TP008448,2026-04-27,Crowding,Medium,8,26,External,Control Room
+INC01341,TP003956,2026-08-24,Crowding,Medium,5,29,Infrastructure,Control Room
+INC01342,TP017922,2026-03-16,Power,Low,35,52,Infrastructure,Maintenance
+INC01343,TP002965,2026-08-16,Medical,Low,5,39,Equipment,Control Room
+INC01344,TP005120,2026-01-09,Track,High,35,67,Passenger Volume,Maintenance
+INC01345,TP018230,2026-04-20,Track,Low,35,41,External,Maintenance
+INC01346,TP002083,2026-06-18,Signal,Low,18,54,External,Maintenance
+INC01347,TP017491,2026-05-07,Track,Low,3,18,Operations,Security
+INC01348,TP001577,2026-02-23,Crowding,Medium,5,26,Equipment,Maintenance
+INC01349,TP001414,2026-07-14,Mechanical,High,5,41,Equipment,Security
+INC01350,TP006946,2026-03-06,Power,Low,12,51,Infrastructure,Operations
+INC01351,TP004255,2026-05-02,Medical,Medium,5,42,Passenger Volume,Operations
+INC01352,TP014814,2026-04-10,Door,Low,8,30,External,Security
+INC01353,TP016044,2026-04-15,Weather,Medium,3,18,Passenger Volume,Operations
+INC01354,TP007874,2026-05-28,Door,Low,3,18,Passenger Volume,Maintenance
+INC01355,TP018371,2026-07-05,Signal,High,50,81,External,Operations
+INC01356,TP008522,2026-07-31,Power,Low,8,30,External,Control Room
+INC01357,TP016980,2026-05-06,Signal,High,8,42,Infrastructure,Maintenance
+INC01358,TP002264,2026-05-04,Weather,Medium,12,25,Operations,Security
+INC01359,TP008500,2026-03-24,Door,Low,5,19,Passenger Volume,Operations
+INC01360,TP016787,2026-07-22,Crowding,Critical,18,36,Passenger Volume,Security
+INC01361,TP006277,2026-03-24,Weather,Low,25,50,Infrastructure,Control Room
+INC01362,TP000720,2026-04-27,Signal,Medium,18,49,Passenger Volume,Operations
+INC01363,TP004948,2026-05-13,Track,Medium,3,29,Passenger Volume,Security
+INC01364,TP002819,2026-06-12,Track,Low,5,31,Passenger Volume,Security
+INC01365,TP004990,2026-04-22,Mechanical,High,5,10,Operations,Maintenance
+INC01366,TP010891,2026-03-11,Signal,Low,12,48,External,Operations
+INC01367,TP001221,2026-02-02,Power,Medium,25,53,Equipment,Maintenance
+INC01368,TP008369,2026-04-17,Weather,High,8,23,Infrastructure,Operations
+INC01369,TP014183,2026-06-03,Crowding,Low,8,21,Passenger Volume,Control Room
+INC01370,TP019972,2026-04-25,Weather,Medium,8,37,Passenger Volume,Maintenance
+INC01371,TP014904,2026-05-21,Signal,Low,35,39,Passenger Volume,Control Room
+INC01372,TP009808,2026-01-05,Medical,Medium,12,20,Infrastructure,Security
+INC01373,TP008640,2026-06-10,Door,Low,25,60,External,Operations
+INC01374,TP002632,2026-04-08,Power,Low,18,52,External,Control Room
+INC01375,TP003625,2026-04-17,Medical,Medium,8,19,Equipment,Security
+INC01376,TP014548,2026-06-03,Medical,Low,5,20,Passenger Volume,Maintenance
+INC01377,TP015404,2026-08-23,Track,Low,5,22,Operations,Maintenance
+INC01378,TP018150,2026-06-17,Track,High,3,19,External,Maintenance
+INC01379,TP000657,2026-02-09,Door,Low,25,35,Infrastructure,Control Room
+INC01380,TP017321,2026-07-29,Track,Low,8,46,Operations,Control Room
+INC01381,TP012443,2026-08-09,Mechanical,Medium,50,59,Operations,Security
+INC01382,TP006878,2026-04-21,Mechanical,High,35,67,Operations,Maintenance
+INC01383,TP009690,2026-06-19,Signal,Medium,8,38,Infrastructure,Control Room
+INC01384,TP019510,2026-02-27,Mechanical,High,8,28,External,Operations
+INC01385,TP001114,2026-07-29,Signal,High,3,18,Operations,Maintenance
+INC01386,TP007838,2026-04-05,Signal,Low,18,57,Operations,Security
+INC01387,TP004113,2026-06-21,Mechanical,Medium,35,55,Infrastructure,Security
+INC01388,TP008186,2026-05-09,Door,Medium,12,14,Infrastructure,Maintenance
+INC01389,TP003688,2026-04-05,Medical,High,3,13,Operations,Operations
+INC01390,TP018465,2026-05-15,Door,Medium,8,27,Passenger Volume,Control Room
+INC01391,TP017926,2026-08-18,Mechanical,Medium,3,17,Equipment,Operations
+INC01392,TP002142,2026-02-04,Track,Low,3,32,Equipment,Security
+INC01393,TP018885,2026-07-23,Track,Medium,50,85,Passenger Volume,Control Room
+INC01394,TP005263,2026-05-01,Signal,Low,8,12,Passenger Volume,Security
+INC01395,TP017749,2026-01-18,Mechanical,High,25,45,Equipment,Security
+INC01396,TP019222,2026-07-22,Door,Critical,8,13,Equipment,Operations
+INC01397,TP006598,2026-02-10,Weather,Low,8,46,Equipment,Control Room
+INC01398,TP018633,2026-08-04,Track,High,3,6,Operations,Security
+INC01399,TP014037,2026-03-11,Crowding,Low,8,22,External,Maintenance
+INC01400,TP017622,2026-08-18,Medical,High,3,19,Equipment,Security
+INC01401,TP000179,2026-07-20,Mechanical,Medium,18,46,Operations,Control Room
+INC01402,TP014747,2026-08-16,Crowding,Low,8,46,Passenger Volume,Control Room
+INC01403,TP005131,2026-01-10,Weather,High,18,24,Passenger Volume,Maintenance
+INC01404,TP010435,2026-02-24,Mechanical,Low,12,40,External,Security
+INC01405,TP007810,2026-01-30,Door,Medium,5,28,Infrastructure,Security
+INC01406,TP001231,2026-07-17,Mechanical,Low,18,21,External,Operations
+INC01407,TP010136,2026-04-13,Crowding,Critical,12,51,Equipment,Maintenance
+INC01408,TP019507,2026-06-21,Track,High,25,54,External,Operations
+INC01409,TP015746,2026-05-04,Signal,Medium,25,63,External,Maintenance
+INC01410,TP017083,2026-02-03,Signal,Medium,3,26,Infrastructure,Security
+INC01411,TP009792,2026-02-10,Signal,Low,5,31,Equipment,Control Room
+INC01412,TP006513,2026-01-04,Crowding,Medium,18,38,Equipment,Maintenance
+INC01413,TP000401,2026-06-26,Power,High,50,89,Passenger Volume,Control Room
+INC01414,TP000200,2026-07-25,Weather,High,5,21,Infrastructure,Maintenance
+INC01415,TP006082,2026-06-07,Mechanical,Medium,35,42,Passenger Volume,Operations
+INC01416,TP012206,2026-04-22,Crowding,Medium,18,29,Operations,Operations
+INC01417,TP002648,2026-03-17,Power,Low,12,48,Operations,Control Room
+INC01418,TP009096,2026-08-17,Track,High,3,15,Operations,Maintenance
+INC01419,TP015249,2026-06-29,Power,High,5,40,Infrastructure,Control Room
+INC01420,TP017697,2026-04-18,Power,Medium,8,22,Passenger Volume,Control Room
+INC01421,TP016444,2026-05-13,Signal,Medium,3,10,Passenger Volume,Control Room
+INC01422,TP005195,2026-05-06,Weather,Critical,3,41,Passenger Volume,Security
+INC01423,TP011721,2026-03-21,Signal,Medium,3,37,Infrastructure,Maintenance
+INC01424,TP013483,2026-04-13,Medical,High,3,37,Passenger Volume,Operations
+INC01425,TP010963,2026-07-29,Crowding,Low,18,49,Passenger Volume,Maintenance
+INC01426,TP002258,2026-03-02,Track,Medium,18,29,Passenger Volume,Maintenance
+INC01427,TP008523,2026-08-25,Mechanical,Low,35,58,External,Maintenance
+INC01428,TP009031,2026-06-12,Track,Low,5,13,Infrastructure,Operations
+INC01429,TP013054,2026-08-12,Mechanical,Medium,8,15,Equipment,Security
+INC01430,TP010472,2026-01-29,Weather,High,35,68,External,Security
+INC01431,TP016143,2026-06-24,Mechanical,Low,12,44,Operations,Control Room
+INC01432,TP011070,2026-05-25,Power,Low,18,44,Passenger Volume,Maintenance
+INC01433,TP016891,2026-04-13,Door,Medium,5,19,Infrastructure,Security
+INC01434,TP004593,2026-04-17,Track,Low,5,44,Equipment,Operations
+INC01435,TP000301,2026-08-16,Crowding,High,8,39,Infrastructure,Maintenance
+INC01436,TP000447,2026-02-08,Track,Low,18,28,Infrastructure,Operations
+INC01437,TP019035,2026-04-14,Track,High,8,13,Equipment,Control Room
+INC01438,TP004130,2026-01-02,Power,Medium,8,15,External,Control Room
+INC01439,TP008909,2026-08-12,Medical,Medium,5,23,External,Control Room
+INC01440,TP007596,2026-04-29,Weather,Low,25,29,Equipment,Control Room
+INC01441,TP017868,2026-08-17,Power,High,25,33,Equipment,Control Room
+INC01442,TP004792,2026-02-15,Door,Low,18,36,Infrastructure,Operations
+INC01443,TP015642,2026-02-18,Crowding,Medium,8,19,Equipment,Operations
+INC01444,TP018679,2026-04-25,Medical,Low,3,15,External,Control Room
+INC01445,TP016274,2026-03-20,Track,High,25,34,Operations,Maintenance
+INC01446,TP012535,2026-04-26,Mechanical,High,12,31,Passenger Volume,Security
+INC01447,TP004839,2026-07-13,Crowding,Medium,8,29,Operations,Security
+INC01448,TP017961,2026-05-28,Door,High,25,54,External,Operations
+INC01449,TP005983,2026-06-12,Crowding,Medium,5,28,Operations,Maintenance
+INC01450,TP007138,2026-08-04,Crowding,Medium,12,49,Passenger Volume,Security
+INC01451,TP012480,2026-02-14,Mechanical,Low,18,39,External,Operations
+INC01452,TP005018,2026-07-21,Mechanical,Low,18,44,Equipment,Control Room
+INC01453,TP003491,2026-04-29,Signal,High,8,20,Equipment,Control Room
+INC01454,TP003030,2026-05-04,Power,Medium,12,41,Operations,Operations
+INC01455,TP005794,2026-08-12,Weather,Low,5,34,Equipment,Maintenance
+INC01456,TP006154,2026-04-23,Medical,Low,35,56,Equipment,Control Room
+INC01457,TP010324,2026-01-12,Door,Medium,25,59,Equipment,Maintenance
+INC01458,TP003838,2026-07-03,Track,Low,5,25,Infrastructure,Security
+INC01459,TP014388,2026-07-30,Signal,Low,5,30,Operations,Operations
+INC01460,TP017720,2026-01-02,Signal,High,35,40,Passenger Volume,Control Room
+INC01461,TP001553,2026-07-23,Track,Medium,3,34,Infrastructure,Operations
+INC01462,TP006277,2026-03-22,Mechanical,Medium,3,9,Infrastructure,Operations
+INC01463,TP014601,2026-05-04,Crowding,Critical,18,57,External,Control Room
+INC01464,TP012660,2026-08-17,Track,Critical,35,69,Infrastructure,Maintenance
+INC01465,TP002910,2026-07-07,Mechanical,Medium,5,36,Equipment,Maintenance
+INC01466,TP006620,2026-08-06,Weather,Medium,3,13,Operations,Control Room
+INC01467,TP010140,2026-08-14,Power,Low,12,39,Equipment,Control Room
+INC01468,TP009813,2026-02-05,Mechanical,Medium,3,24,External,Operations
+INC01469,TP015015,2026-02-06,Medical,Low,3,7,Operations,Operations
+INC01470,TP015427,2026-03-17,Signal,Low,3,34,External,Maintenance
+INC01471,TP006474,2026-05-19,Track,Medium,12,17,External,Security
+INC01472,TP019676,2026-06-11,Mechanical,Medium,8,45,Passenger Volume,Operations
+INC01473,TP016917,2026-04-18,Medical,Medium,3,7,External,Maintenance
+INC01474,TP016066,2026-04-06,Door,Low,3,28,Operations,Control Room
+INC01475,TP012778,2026-03-04,Crowding,High,25,49,Equipment,Operations
+INC01476,TP018252,2026-03-06,Weather,Low,3,16,External,Security
+INC01477,TP004895,2026-07-01,Signal,Low,5,28,Equipment,Control Room
+INC01478,TP013083,2026-05-10,Crowding,Medium,12,26,Infrastructure,Maintenance
+INC01479,TP001323,2026-06-17,Door,High,35,51,External,Operations
+INC01480,TP014468,2026-04-18,Door,Low,5,26,Infrastructure,Maintenance
+INC01481,TP013178,2026-05-10,Crowding,Low,18,37,Equipment,Security
+INC01482,TP008067,2026-01-01,Track,High,3,22,Infrastructure,Security
+INC01483,TP003724,2026-08-21,Medical,Low,5,8,Equipment,Control Room
+INC01484,TP001842,2026-01-26,Medical,Medium,18,49,Operations,Control Room
+INC01485,TP015268,2026-04-28,Track,Low,12,45,Equipment,Control Room
+INC01486,TP006617,2026-03-11,Track,Low,12,17,Passenger Volume,Operations
+INC01487,TP016254,2026-04-07,Door,Medium,25,58,Operations,Operations
+INC01488,TP015672,2026-06-04,Track,Medium,8,18,Operations,Operations
+INC01489,TP010394,2026-05-26,Signal,Medium,18,45,Equipment,Control Room
+INC01490,TP001317,2026-01-16,Medical,Low,5,36,Operations,Security
+INC01491,TP003180,2026-05-20,Door,Critical,5,30,Passenger Volume,Operations
+INC01492,TP019260,2026-08-16,Power,Medium,3,40,Equipment,Maintenance
+INC01493,TP003532,2026-03-03,Mechanical,High,12,19,External,Security
+INC01494,TP014072,2026-05-28,Track,Low,3,34,Equipment,Maintenance
+INC01495,TP003671,2026-06-02,Power,Low,5,39,External,Security
+INC01496,TP012214,2026-08-25,Weather,Medium,5,30,External,Security
+INC01497,TP007313,2026-02-24,Power,Medium,25,29,Infrastructure,Security
+INC01498,TP013391,2026-04-04,Weather,Low,25,29,External,Maintenance
+INC01499,TP004435,2026-04-10,Mechanical,Medium,18,25,External,Operations
+INC01500,TP002608,2026-04-16,Mechanical,Medium,18,44,Passenger Volume,Security
+INC01501,TP015248,2026-07-30,Medical,Critical,3,31,Passenger Volume,Operations
+INC01502,TP008403,2026-06-27,Mechanical,Low,8,31,Infrastructure,Control Room
+INC01503,TP015661,2026-08-23,Crowding,Low,5,44,Equipment,Control Room
+INC01504,TP015209,2026-04-11,Crowding,High,5,25,Passenger Volume,Security
+INC01505,TP005630,2026-02-07,Door,High,3,18,Operations,Operations
+INC01506,TP018119,2026-03-16,Track,Low,12,49,Equipment,Security
+INC01507,TP002195,2026-01-30,Mechanical,Low,35,45,Passenger Volume,Control Room
+INC01508,TP016524,2026-08-26,Track,High,5,32,Infrastructure,Maintenance
+INC01509,TP018976,2026-04-23,Medical,Medium,25,37,Operations,Control Room
+INC01510,TP010699,2026-08-13,Door,High,5,18,Operations,Control Room
+INC01511,TP016212,2026-04-05,Mechanical,Medium,8,40,Infrastructure,Operations
+INC01512,TP000510,2026-04-14,Track,Low,50,65,External,Operations
+INC01513,TP009892,2026-07-23,Power,Low,18,30,Infrastructure,Security
+INC01514,TP014447,2026-04-13,Crowding,Medium,35,57,Operations,Maintenance
+INC01515,TP007014,2026-04-19,Track,Low,50,79,External,Operations
+INC01516,TP017304,2026-03-23,Crowding,Low,5,18,Operations,Operations
+INC01517,TP004228,2026-07-12,Medical,Medium,8,28,Infrastructure,Maintenance
+INC01518,TP009097,2026-07-15,Crowding,High,12,26,Passenger Volume,Maintenance
+INC01519,TP016305,2026-05-23,Crowding,Low,5,41,Infrastructure,Security
+INC01520,TP003563,2026-05-19,Signal,High,8,39,Equipment,Maintenance
+INC01521,TP009494,2026-02-27,Track,Low,50,76,Infrastructure,Security
+INC01522,TP010851,2026-07-06,Weather,Low,35,63,Infrastructure,Security
+INC01523,TP001314,2026-07-27,Track,High,5,20,External,Control Room
+INC01524,TP011868,2026-06-02,Medical,Low,50,68,Infrastructure,Control Room
+INC01525,TP015437,2026-06-04,Medical,Medium,8,30,Equipment,Control Room
+INC01526,TP006338,2026-06-23,Track,Low,5,26,Operations,Operations
+INC01527,TP004761,2026-06-26,Signal,Medium,8,11,Infrastructure,Security
+INC01528,TP009511,2026-05-19,Track,Low,18,25,Passenger Volume,Control Room
+INC01529,TP002442,2026-07-06,Crowding,Low,8,34,Operations,Operations
+INC01530,TP014600,2026-05-14,Signal,Low,8,45,Operations,Security
+INC01531,TP015765,2026-06-05,Mechanical,Low,3,37,Passenger Volume,Operations
+INC01532,TP004628,2026-05-13,Mechanical,Medium,25,29,External,Security
+INC01533,TP016375,2026-02-21,Power,Critical,18,41,Operations,Security
+INC01534,TP019795,2026-08-25,Door,Low,18,38,Operations,Control Room
+INC01535,TP011035,2026-01-29,Crowding,Low,18,49,Passenger Volume,Operations
+INC01536,TP008156,2026-07-04,Weather,High,3,20,External,Control Room
+INC01537,TP002759,2026-05-08,Power,Medium,5,41,External,Operations
+INC01538,TP001554,2026-01-03,Power,Critical,12,35,External,Maintenance
+INC01539,TP017202,2026-08-08,Track,Low,5,23,Equipment,Maintenance
+INC01540,TP002927,2026-01-28,Mechanical,Low,5,16,Infrastructure,Security
+INC01541,TP014846,2026-08-13,Mechanical,Low,18,37,Equipment,Operations
+INC01542,TP018628,2026-05-13,Medical,Low,5,16,External,Control Room
+INC01543,TP018690,2026-08-05,Weather,High,35,69,Passenger Volume,Security
+INC01544,TP002926,2026-02-08,Crowding,Low,8,33,Equipment,Control Room
+INC01545,TP006135,2026-01-13,Door,Low,3,34,Operations,Control Room
+INC01546,TP014370,2026-02-20,Track,Low,18,24,Operations,Maintenance
+INC01547,TP008671,2026-06-27,Medical,Medium,25,61,External,Control Room
+INC01548,TP004419,2026-01-02,Mechanical,Medium,12,25,Infrastructure,Security
+INC01549,TP015229,2026-08-23,Door,High,18,21,Equipment,Security
+INC01550,TP003947,2026-05-30,Power,Critical,25,34,Equipment,Operations
+INC01551,TP002647,2026-06-08,Door,High,18,24,Passenger Volume,Operations
+INC01552,TP016732,2026-02-21,Track,High,25,37,Passenger Volume,Maintenance
+INC01553,TP011384,2026-08-28,Track,Medium,35,66,Equipment,Maintenance
+INC01554,TP004466,2026-01-30,Medical,Low,18,33,Passenger Volume,Operations
+INC01555,TP011001,2026-04-14,Mechanical,High,3,38,External,Control Room
+INC01556,TP008924,2026-05-30,Power,High,18,25,External,Control Room
+INC01557,TP008991,2026-06-09,Door,Low,35,48,Operations,Operations
+INC01558,TP015801,2026-07-21,Crowding,Medium,5,28,Equipment,Operations
+INC01559,TP008403,2026-03-05,Medical,High,8,32,Infrastructure,Maintenance
+INC01560,TP013161,2026-02-20,Weather,Medium,8,33,External,Control Room
+INC01561,TP000268,2026-08-26,Mechanical,Medium,12,32,Equipment,Control Room
+INC01562,TP004718,2026-02-06,Weather,Medium,3,20,Operations,Control Room
+INC01563,TP015951,2026-03-31,Signal,Low,12,16,Passenger Volume,Operations
+INC01564,TP015448,2026-04-09,Crowding,High,5,26,External,Operations
+INC01565,TP008209,2026-08-15,Crowding,Medium,8,19,Equipment,Maintenance
+INC01566,TP011657,2026-05-26,Crowding,Low,5,16,Equipment,Security
+INC01567,TP016387,2026-01-17,Crowding,Medium,5,40,Infrastructure,Control Room
+INC01568,TP000007,2026-06-16,Signal,Low,3,32,External,Security
+INC01569,TP001326,2026-01-05,Crowding,High,3,24,Operations,Operations
+INC01570,TP003567,2026-04-28,Weather,Medium,3,13,Equipment,Security
+INC01571,TP013256,2026-03-22,Signal,Medium,25,36,Infrastructure,Maintenance
+INC01572,TP019934,2026-07-07,Power,Medium,5,31,Equipment,Operations
+INC01573,TP004347,2026-04-09,Track,Medium,3,35,Operations,Maintenance
+INC01574,TP010502,2026-05-13,Crowding,Low,50,68,Passenger Volume,Control Room
+INC01575,TP009732,2026-05-28,Power,Low,8,37,External,Operations
+INC01576,TP018495,2026-08-12,Medical,Low,18,33,Passenger Volume,Operations
+INC01577,TP012211,2026-01-30,Power,High,8,39,Operations,Maintenance
+INC01578,TP002860,2026-07-15,Track,Medium,35,59,External,Operations
+INC01579,TP013887,2026-03-12,Signal,Low,8,44,External,Maintenance
+INC01580,TP013605,2026-03-10,Signal,Medium,18,30,External,Security
+INC01581,TP001056,2026-08-02,Signal,High,25,40,External,Control Room
+INC01582,TP008252,2026-01-31,Signal,High,5,27,Infrastructure,Control Room
+INC01583,TP012709,2026-07-04,Track,Low,8,12,Infrastructure,Control Room
+INC01584,TP018551,2026-05-08,Door,Low,3,35,Operations,Security
+INC01585,TP016833,2026-04-06,Track,Medium,8,31,Equipment,Maintenance
+INC01586,TP005090,2026-05-24,Mechanical,Medium,35,48,Operations,Control Room
+INC01587,TP015919,2026-08-18,Medical,Medium,5,23,Passenger Volume,Maintenance
+INC01588,TP013929,2026-04-09,Signal,High,12,42,External,Control Room
+INC01589,TP008949,2026-05-20,Crowding,Low,3,28,Operations,Operations
+INC01590,TP019425,2026-06-17,Mechanical,Low,3,21,External,Maintenance
+INC01591,TP018973,2026-02-01,Door,High,12,25,Infrastructure,Operations
+INC01592,TP002525,2026-08-18,Door,Low,18,28,External,Security
+INC01593,TP001904,2026-06-13,Crowding,Low,3,8,Operations,Control Room
+INC01594,TP005081,2026-08-01,Weather,High,25,62,Passenger Volume,Security
+INC01595,TP003194,2026-06-04,Power,Low,12,47,Operations,Security
+INC01596,TP016878,2026-08-02,Signal,Critical,5,11,Passenger Volume,Operations
+INC01597,TP000825,2026-01-02,Crowding,Low,8,29,Infrastructure,Security
+INC01598,TP004074,2026-04-23,Signal,Low,3,14,Infrastructure,Control Room
+INC01599,TP012163,2026-05-20,Signal,Medium,35,44,Infrastructure,Security
+INC01600,TP016912,2026-04-16,Weather,Medium,3,13,External,Control Room
+INC01601,TP009999,2026-05-14,Weather,Low,5,29,Operations,Security
+INC01602,TP003573,2026-05-04,Mechanical,Low,5,7,Passenger Volume,Operations
+INC01603,TP017924,2026-08-17,Track,High,8,12,Infrastructure,Operations
+INC01604,TP016536,2026-07-08,Crowding,High,25,50,Passenger Volume,Operations
+INC01605,TP001656,2026-07-12,Track,Low,3,15,External,Maintenance
+INC01606,TP012867,2026-07-04,Medical,Medium,5,28,Equipment,Security
+INC01607,TP009207,2026-06-01,Signal,Low,18,48,Infrastructure,Operations
+INC01608,TP008308,2026-04-03,Track,Low,3,33,Infrastructure,Security
+INC01609,TP000774,2026-03-29,Mechanical,Medium,18,57,Passenger Volume,Maintenance
+INC01610,TP019755,2026-04-13,Mechanical,Low,50,67,Operations,Security
+INC01611,TP003220,2026-07-12,Crowding,Low,8,38,Equipment,Maintenance
+INC01612,TP006947,2026-03-17,Weather,Medium,5,7,Passenger Volume,Control Room
+INC01613,TP001197,2026-08-04,Track,Medium,12,45,Operations,Maintenance
+INC01614,TP015256,2026-06-10,Weather,Medium,70,108,External,Operations
+INC01615,TP008715,2026-06-30,Signal,Medium,8,22,External,Security
+INC01616,TP013248,2026-08-08,Door,Low,25,42,External,Operations
+INC01617,TP004105,2026-07-24,Power,Medium,5,24,Passenger Volume,Control Room
+INC01618,TP013942,2026-08-11,Medical,Medium,18,29,External,Operations
+INC01619,TP007423,2026-01-08,Track,Medium,3,31,Infrastructure,Control Room
+INC01620,TP015460,2026-02-24,Mechanical,Low,3,20,Operations,Operations
+INC01621,TP010182,2026-06-29,Crowding,Medium,5,39,Equipment,Operations
+INC01622,TP006112,2026-02-26,Mechanical,High,3,34,External,Operations
+INC01623,TP018444,2026-04-12,Weather,Critical,12,30,Equipment,Control Room
+INC01624,TP018087,2026-05-06,Power,High,35,42,External,Security
+INC01625,TP006507,2026-04-13,Power,Low,8,36,Passenger Volume,Security
+INC01626,TP015565,2026-07-01,Medical,Low,12,15,External,Control Room
+INC01627,TP015765,2026-08-07,Power,Low,8,18,External,Control Room
+INC01628,TP006314,2026-03-07,Weather,Medium,5,37,Operations,Control Room
+INC01629,TP009506,2026-04-30,Mechanical,Low,50,55,External,Control Room
+INC01630,TP010134,2026-04-20,Crowding,Low,3,19,Operations,Operations
+INC01631,TP010068,2026-01-04,Crowding,Critical,25,62,External,Control Room
+INC01632,TP013366,2026-06-23,Medical,Low,35,38,External,Control Room
+INC01633,TP017188,2026-08-18,Crowding,Medium,18,33,Infrastructure,Operations
+INC01634,TP015720,2026-08-05,Power,Medium,5,13,Infrastructure,Operations
+INC01635,TP001515,2026-04-23,Track,High,5,26,Operations,Security
+INC01636,TP001757,2026-01-19,Power,Low,3,27,Passenger Volume,Operations
+INC01637,TP008976,2026-03-01,Signal,Medium,25,44,External,Security
+INC01638,TP014525,2026-02-03,Weather,Medium,25,31,Passenger Volume,Maintenance
+INC01639,TP000797,2026-06-27,Crowding,High,3,27,Equipment,Operations
+INC01640,TP007572,2026-02-20,Mechanical,Low,50,74,Operations,Operations
+INC01641,TP010262,2026-06-20,Crowding,High,3,21,Infrastructure,Maintenance
+INC01642,TP009267,2026-07-22,Mechanical,Low,25,31,Equipment,Security
+INC01643,TP017880,2026-04-23,Medical,Critical,70,97,Infrastructure,Operations
+INC01644,TP015016,2026-07-08,Door,High,3,35,Equipment,Security
+INC01645,TP002815,2026-07-12,Door,Medium,25,27,External,Maintenance
+INC01646,TP004079,2026-08-05,Door,Low,18,21,Equipment,Security
+INC01647,TP005021,2026-07-15,Weather,Critical,3,32,Operations,Maintenance
+INC01648,TP012655,2026-05-06,Door,High,3,36,External,Maintenance
+INC01649,TP003864,2026-02-06,Weather,Low,5,12,Infrastructure,Operations
+INC01650,TP018513,2026-02-28,Weather,Medium,35,44,Operations,Operations
+INC01651,TP017433,2026-03-05,Door,Low,50,53,Equipment,Operations
+INC01652,TP001268,2026-06-30,Signal,Critical,50,73,Infrastructure,Maintenance
+INC01653,TP005792,2026-01-13,Crowding,Medium,8,10,Equipment,Maintenance
+INC01654,TP005265,2026-06-11,Mechanical,Medium,5,9,External,Maintenance
+INC01655,TP008061,2026-02-25,Signal,Low,12,23,Infrastructure,Operations
+INC01656,TP013484,2026-03-16,Door,Medium,25,41,Infrastructure,Operations
+INC01657,TP014673,2026-01-01,Door,Low,5,24,Operations,Security
+INC01658,TP013299,2026-08-20,Track,Low,3,42,Infrastructure,Maintenance
+INC01659,TP012277,2026-02-26,Track,Critical,25,52,Operations,Operations
+INC01660,TP019595,2026-02-11,Crowding,Medium,25,34,Operations,Maintenance
+INC01661,TP014386,2026-08-26,Signal,Low,5,14,Operations,Control Room
+INC01662,TP005777,2026-05-01,Track,Medium,12,40,Passenger Volume,Maintenance
+INC01663,TP014278,2026-01-12,Door,Low,12,20,Passenger Volume,Maintenance
+INC01664,TP013914,2026-05-27,Mechanical,Medium,5,10,Infrastructure,Maintenance
+INC01665,TP007906,2026-08-25,Crowding,Medium,3,7,Equipment,Maintenance
+INC01666,TP009308,2026-08-10,Signal,Low,8,36,Infrastructure,Operations
+INC01667,TP008653,2026-05-24,Track,Low,12,39,Operations,Control Room
+INC01668,TP019500,2026-07-12,Signal,Medium,3,38,Equipment,Operations
+INC01669,TP005620,2026-01-08,Signal,Medium,8,46,External,Security
+INC01670,TP018867,2026-03-13,Power,Medium,8,27,Passenger Volume,Security
+INC01671,TP017342,2026-01-14,Mechanical,Low,25,62,Passenger Volume,Maintenance
+INC01672,TP008941,2026-03-26,Medical,Low,12,36,Infrastructure,Control Room
+INC01673,TP018099,2026-05-24,Crowding,Low,12,26,Equipment,Security
+INC01674,TP013040,2026-06-25,Door,Low,12,22,Passenger Volume,Operations
+INC01675,TP006142,2026-01-09,Door,Low,8,18,Equipment,Security
+INC01676,TP011557,2026-06-22,Door,Low,8,29,Operations,Security
+INC01677,TP008846,2026-05-11,Power,Medium,8,12,Operations,Maintenance
+INC01678,TP013779,2026-05-24,Weather,Low,25,40,Operations,Maintenance
+INC01679,TP001224,2026-06-13,Crowding,Medium,8,22,Equipment,Security
+INC01680,TP005028,2026-06-25,Mechanical,Low,5,12,Infrastructure,Operations
+INC01681,TP002342,2026-06-29,Track,High,12,50,Infrastructure,Control Room
+INC01682,TP016873,2026-08-12,Mechanical,Medium,18,51,Operations,Maintenance
+INC01683,TP010339,2026-04-21,Signal,Medium,3,11,Operations,Maintenance
+INC01684,TP019532,2026-02-15,Door,Low,12,36,Equipment,Maintenance
+INC01685,TP009819,2026-03-06,Track,Low,3,35,Infrastructure,Security
+INC01686,TP000277,2026-07-26,Medical,Low,5,7,Operations,Control Room
+INC01687,TP004069,2026-06-22,Signal,Medium,5,11,Operations,Control Room
+INC01688,TP016382,2026-04-08,Signal,Critical,50,83,Equipment,Control Room
+INC01689,TP013656,2026-08-16,Weather,Low,3,13,Infrastructure,Control Room
+INC01690,TP019688,2026-06-08,Power,Low,3,30,Equipment,Maintenance
+INC01691,TP009442,2026-02-21,Power,Medium,5,30,Operations,Maintenance
+INC01692,TP019970,2026-02-09,Weather,Low,25,61,Infrastructure,Security
+INC01693,TP016532,2026-04-28,Crowding,Low,3,31,Equipment,Security
+INC01694,TP015642,2026-08-17,Track,Medium,18,55,Infrastructure,Control Room
+INC01695,TP004778,2026-05-20,Mechanical,Low,5,16,Equipment,Maintenance
+INC01696,TP004186,2026-04-16,Weather,Low,3,34,Infrastructure,Control Room
+INC01697,TP018513,2026-02-21,Crowding,Low,8,45,Equipment,Maintenance
+INC01698,TP003428,2026-04-11,Door,Medium,3,36,Infrastructure,Operations
+INC01699,TP008573,2026-06-26,Door,Low,12,32,Operations,Security
+INC01700,TP014666,2026-01-26,Crowding,Medium,8,12,Equipment,Operations
+INC01701,TP004890,2026-07-10,Crowding,Low,25,45,External,Maintenance
+INC01702,TP005022,2026-04-27,Door,High,3,17,Equipment,Security
+INC01703,TP003390,2026-05-03,Crowding,Low,8,22,External,Operations
+INC01704,TP016039,2026-08-13,Crowding,Low,3,10,Operations,Security
+INC01705,TP003306,2026-04-14,Mechanical,Medium,5,37,Operations,Maintenance
+INC01706,TP009227,2026-04-19,Track,High,3,42,Infrastructure,Maintenance
+INC01707,TP005083,2026-05-04,Power,Critical,3,31,External,Operations
+INC01708,TP019062,2026-03-25,Signal,Medium,70,104,External,Security
+INC01709,TP016110,2026-08-07,Signal,Medium,35,60,External,Maintenance
+INC01710,TP013042,2026-08-12,Medical,Medium,5,38,Operations,Maintenance
+INC01711,TP007998,2026-08-22,Track,Medium,25,38,Infrastructure,Operations
+INC01712,TP002158,2026-01-28,Door,Low,25,46,Infrastructure,Security
+INC01713,TP008598,2026-06-16,Weather,High,8,23,External,Security
+INC01714,TP010096,2026-03-14,Medical,Low,8,25,Passenger Volume,Operations
+INC01715,TP002191,2026-01-02,Power,Low,8,21,Equipment,Security
+INC01716,TP007484,2026-04-04,Power,Medium,5,42,Equipment,Operations
+INC01717,TP002780,2026-03-13,Medical,Medium,5,17,External,Operations
+INC01718,TP008462,2026-07-28,Track,Low,12,47,Equipment,Operations
+INC01719,TP003868,2026-07-17,Medical,Low,35,55,Operations,Security
+INC01720,TP004092,2026-04-18,Signal,Low,70,79,Operations,Maintenance
+INC01721,TP015195,2026-08-01,Power,Low,18,55,Passenger Volume,Operations
+INC01722,TP001299,2026-01-13,Mechanical,Critical,5,32,Infrastructure,Operations
+INC01723,TP016940,2026-08-03,Weather,Critical,18,41,External,Security
+INC01724,TP018827,2026-02-24,Track,Medium,12,18,Infrastructure,Control Room
+INC01725,TP017716,2026-05-10,Medical,Medium,12,45,External,Security
+INC01726,TP006994,2026-05-25,Mechanical,Medium,8,19,External,Security
+INC01727,TP019793,2026-03-05,Medical,Critical,12,24,External,Maintenance
+INC01728,TP018014,2026-04-26,Mechanical,Low,8,33,Operations,Operations
+INC01729,TP009762,2026-01-08,Power,Critical,35,56,Passenger Volume,Security
+INC01730,TP015542,2026-06-27,Medical,Medium,35,41,Passenger Volume,Security
+INC01731,TP018238,2026-03-14,Door,High,12,35,Passenger Volume,Maintenance
+INC01732,TP006404,2026-04-27,Door,Medium,35,65,Infrastructure,Security
+INC01733,TP005132,2026-03-06,Signal,Low,8,22,External,Operations
+INC01734,TP013025,2026-06-15,Mechanical,Low,8,47,Infrastructure,Control Room
+INC01735,TP006316,2026-04-11,Power,Low,18,40,Passenger Volume,Operations
+INC01736,TP006874,2026-07-25,Crowding,High,5,22,Infrastructure,Maintenance
+INC01737,TP016547,2026-08-16,Crowding,Medium,18,38,Infrastructure,Security
+INC01738,TP005502,2026-01-04,Mechanical,Medium,8,13,Passenger Volume,Maintenance
+INC01739,TP001837,2026-01-29,Door,Medium,12,26,Infrastructure,Security
+INC01740,TP004077,2026-08-22,Signal,Low,5,17,Equipment,Control Room
+INC01741,TP004586,2026-07-08,Weather,Low,5,39,Equipment,Security
+INC01742,TP008793,2026-06-12,Medical,Low,8,41,Passenger Volume,Security
+INC01743,TP001284,2026-05-18,Power,Low,3,19,Operations,Operations
+INC01744,TP013982,2026-08-01,Door,Low,35,58,Infrastructure,Maintenance
+INC01745,TP011301,2026-05-17,Power,Medium,8,14,Equipment,Maintenance
+INC01746,TP012070,2026-02-09,Mechanical,Medium,8,47,Equipment,Control Room
+INC01747,TP012754,2026-04-21,Door,High,5,44,External,Operations
+INC01748,TP008716,2026-06-20,Signal,Low,5,34,Passenger Volume,Operations
+INC01749,TP005867,2026-01-04,Power,Low,70,76,Passenger Volume,Control Room
+INC01750,TP009145,2026-01-30,Signal,High,5,40,Equipment,Control Room
+INC01751,TP007026,2026-04-13,Signal,High,50,64,Equipment,Security
+INC01752,TP005871,2026-06-11,Mechanical,Medium,5,32,Equipment,Control Room
+INC01753,TP006966,2026-03-12,Track,Low,3,26,External,Operations
+INC01754,TP009294,2026-01-11,Weather,Low,12,43,Equipment,Operations
+INC01755,TP009142,2026-07-11,Weather,Low,8,22,Equipment,Control Room
+INC01756,TP006321,2026-05-09,Signal,High,25,64,Passenger Volume,Control Room
+INC01757,TP014481,2026-04-25,Weather,Medium,25,48,Passenger Volume,Security
+INC01758,TP010663,2026-06-27,Medical,Low,5,7,Operations,Operations
+INC01759,TP018154,2026-04-10,Signal,High,8,17,External,Maintenance
+INC01760,TP006425,2026-03-25,Weather,Medium,5,29,Operations,Operations
+INC01761,TP015963,2026-01-17,Door,Low,5,17,Infrastructure,Maintenance
+INC01762,TP006205,2026-03-20,Medical,Low,8,41,Passenger Volume,Operations
+INC01763,TP010023,2026-07-03,Weather,Medium,8,15,Operations,Maintenance
+INC01764,TP011372,2026-03-30,Signal,Medium,18,45,Equipment,Security
+INC01765,TP010940,2026-03-06,Mechanical,Critical,8,12,External,Maintenance
+INC01766,TP007173,2026-02-08,Track,High,5,31,Equipment,Operations
+INC01767,TP005883,2026-03-02,Crowding,Critical,8,17,Infrastructure,Operations
+INC01768,TP018757,2026-07-12,Power,Low,5,21,Infrastructure,Operations
+INC01769,TP009671,2026-01-16,Track,Low,8,26,Passenger Volume,Operations
+INC01770,TP005878,2026-05-04,Medical,Low,5,37,Infrastructure,Maintenance
+INC01771,TP010096,2026-08-11,Weather,High,5,36,Operations,Maintenance
+INC01772,TP010222,2026-07-19,Medical,Critical,12,30,Operations,Maintenance
+INC01773,TP010256,2026-06-22,Weather,Medium,3,13,Infrastructure,Operations
+INC01774,TP015030,2026-06-18,Signal,Low,5,38,Operations,Operations
+INC01775,TP014379,2026-01-03,Door,High,12,37,Operations,Control Room
+INC01776,TP004167,2026-07-19,Crowding,Medium,8,39,Passenger Volume,Control Room
+INC01777,TP007641,2026-07-16,Medical,Low,70,82,Equipment,Security
+INC01778,TP017319,2026-05-02,Weather,High,8,18,External,Maintenance
+INC01779,TP006093,2026-03-29,Power,Low,5,26,Equipment,Security
+INC01780,TP006569,2026-05-30,Crowding,Low,5,23,Operations,Operations
+INC01781,TP000316,2026-03-25,Weather,Low,12,24,Infrastructure,Control Room
+INC01782,TP007449,2026-02-04,Crowding,Low,25,32,Infrastructure,Operations
+INC01783,TP008251,2026-03-22,Mechanical,Low,5,38,Passenger Volume,Operations
+INC01784,TP010555,2026-06-06,Signal,Critical,8,20,Passenger Volume,Control Room
+INC01785,TP000367,2026-03-14,Door,High,8,22,Equipment,Operations
+INC01786,TP013237,2026-05-30,Crowding,High,5,27,Operations,Operations
+INC01787,TP000555,2026-07-14,Signal,Low,3,34,Passenger Volume,Operations
+INC01788,TP015727,2026-01-23,Crowding,Medium,8,27,Passenger Volume,Security
+INC01789,TP013038,2026-06-01,Track,Medium,12,29,Passenger Volume,Control Room
+INC01790,TP007388,2026-05-10,Mechanical,Low,50,89,Infrastructure,Operations
+INC01791,TP007835,2026-03-07,Track,Low,70,105,Passenger Volume,Control Room
+INC01792,TP005422,2026-06-19,Door,Low,12,47,Passenger Volume,Maintenance
+INC01793,TP005059,2026-01-18,Medical,Medium,12,34,Passenger Volume,Security
+INC01794,TP008671,2026-01-25,Door,Low,50,85,Equipment,Maintenance
+INC01795,TP014648,2026-03-06,Power,High,25,47,External,Security
+INC01796,TP013041,2026-07-08,Track,Low,8,41,Operations,Maintenance
+INC01797,TP013850,2026-04-26,Power,Medium,8,16,Passenger Volume,Control Room
+INC01798,TP007991,2026-04-11,Medical,Low,25,58,Equipment,Control Room
+INC01799,TP015405,2026-03-08,Track,Critical,25,53,Passenger Volume,Control Room
+INC01800,TP005908,2026-05-21,Mechanical,Medium,25,45,Equipment,Security

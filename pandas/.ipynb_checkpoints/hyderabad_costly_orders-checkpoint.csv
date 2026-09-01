@@ -1,0 +1,8 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Price,City,Revenue
+ORD1001,2026-07-01,C1001,Laptop,Electronics,2,62000,Hyderabad,124000
+ORD1004,2026-07-03,C1004,Monitor,Electronics,5,18500,Hyderabad,92500
+ORD1008,2026-07-07,C1008,Tablet,Electronics,6,24500,Hyderabad,147000
+ORD1013,2026-07-12,C1013,Laptop,Electronics,3,59000,Hyderabad,177000
+ORD1022,2026-07-21,C1022,Monitor,Electronics,7,17500,Hyderabad,122500
+ORD1027,2026-07-26,C1027,Laptop,Electronics,2,61000,Hyderabad,122000
+ORD1036,2026-08-04,C1036,Tablet,Electronics,4,26000,Hyderabad,104000
