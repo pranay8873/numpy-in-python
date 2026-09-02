@@ -1,0 +1,16 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Price,City
+ORD1001,2026-07-01,C101,Laptop,Electronics,2,62000,Hyderabad
+ORD1002,2026-07-03,C102,Mouse,Accessories,5,800,Bangalore
+ORD1003,2026-07-05,C103,Keyboard,Accessories,2,1500,Chennai
+ORD1004,2026-07-10,C104,Monitor,Electronics,1,12000,Hyderabad
+ORD1005,invalid-date,C105,Headphones,Accessories,3,2500,Mumbai
+ORD1006,2026-07-15,C106,Laptop,Electronics,1,70000,Delhi
+ORD1007,2026-07-18,C107,Webcam,Accessories,unknown,3500,Pune
+ORD1008,2026-07-20,C108,Tablet,Electronics,2,28000,Hyderabad
+ORD1009,2026-07-22,C109,Keyboard,Accessories,4,"1,400",Bangalore
+ORD1010,2026-07-25,C110,Monitor,Electronics,1,15000,Chennai
+ORD1011,2026-08-01,C111,Laptop,Electronics,unknown,65000,Hyderabad
+ORD1012,2026-08-03,C112,Mouse,Accessories,3,750,Mumbai
+ORD1013,2026-08-05,C113,Tablet,Electronics,2,unknown,Delhi
+ORD1014,2026-08-08,C114,Monitor,Electronics,3,11000,Pune
+ORD1015,invalid-date,C115,Webcam,Accessories,2,3200,Chennai
