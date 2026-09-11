@@ -1,0 +1,7 @@
+Region_ID,Region,Country,Business_Unit
+R001,South,India,Enterprise
+R002,West,India,Enterprise
+R003,North,India,Enterprise
+R004,East,India,Enterprise
+R005,International,USA,Global
+R006,International,UK,Global

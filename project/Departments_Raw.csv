@@ -1,0 +1,11 @@
+Department_ID,Department,Cost_Center_ID,Region
+D001,Sales,CC1001,South
+D002,Marketing,CC1002,West
+D003,Operations,CC1003,North
+D004,Finance,CC1004,South
+D005,Human Resources,CC1005,West
+D006,IT,CC1006,North
+D007,Research & Development,CC1007,East
+D008,Procurement,CC1008,East
+D009,Customer Success,CC1009,South
+D010,Legal,CC1010,West

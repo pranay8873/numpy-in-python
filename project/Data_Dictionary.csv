@@ -1,0 +1,11 @@
+Table,Column,Description
+Financial_Transactions,Transaction_ID,Unique transaction identifier
+Financial_Transactions,Date,Transaction/financial record date
+Financial_Transactions,Department_ID,Foreign key to Departments
+Financial_Transactions,Region_ID,Foreign key to Regions
+Financial_Transactions,Budget_Revenue,Planned revenue
+Financial_Transactions,Actual_Revenue,Realized revenue
+Financial_Transactions,Budget_Expense,Planned expense
+Financial_Transactions,Actual_Expense,Realized expense
+Departments,Department_ID,Primary key
+Regions,Region_ID,Primary key

@@ -1,0 +1,9 @@
+Department_ID,Department,Cost_Center_ID,Manager,Department_Type
+D001,Sales,CC1001,Rahul Sharma,Revenue Generating
+D002,Marketing,CC1002,Priya Nair,Revenue Generating
+D003,Operations,CC1003,Amit Kumar,Operational
+D004,Finance,CC1004,Sneha Rao,Corporate
+D005,Human Resources,CC1005,Arjun Mehta,Corporate
+D006,IT,CC1006,Neha Verma,Support
+D007,Research & Development,CC1007,Vikram Singh,Innovation
+D008,Procurement,CC1008,Ananya Das,Operational
